@@ -1,354 +1,354 @@
-shipment_id,shipment_date,company,depot,product,destination,province,volume_litres,reference_distance_km,claimed_distance_km,transport_cost
-SHP-0001,2026-07-01,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,38000.0,150,150.0,21200
-SHP-0042,2026-07-01,ZamFuel Trading Ltd,Kabwe,Kerosene,Serenje,Central,36000.0,175,175.0,31088
-SHP-0228,2026-07-01,ZamFuel Trading Ltd,Ndola,Petrol,Kitwe,Copperbelt,36000.0,65,65.0,9949
-SHP-0246,2026-07-01,Zambezi Oil Distributors Ltd,Livingstone,Petrol,Sesheke,Western,40000.0,145,145.0,23491
-SHP-0389,2026-07-01,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,24000.0,485,485.0,50800
-SHP-0010,2026-07-03,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Solwezi,North-Western,28000.0,575,575.0,72936
-SHP-0069,2026-07-03,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,38000.0,130,130.0,23985
-SHP-0159,2026-07-03,Rift Petro Supplies Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,34000.0,105,105.0,17841
-SHP-0236,2026-07-03,ZamFuel Trading Ltd,Kabwe,Diesel,Mkushi,Central,40000.0,95,95.0,15802
-SHP-0312,2026-07-03,Great Lakes Energy Ltd,Lusaka,Diesel,Mansa,Luapula,38000.0,455,455.0,75405
-SHP-0230,2026-07-04,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88651
-SHP-0328,2026-07-04,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,40000.0,65,65.0,9445
-SHP-0364,2026-07-04,ZamFuel Trading Ltd,Lusaka,Petrol,Choma,Southern,30000.0,320,320.0,43721
-SHP-0372,2026-07-04,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,40000.0,560,560.0,90027
-SHP-0012,2026-07-05,Rift Petro Supplies Ltd,Kitwe,Petrol,Chingola,Copperbelt,30000.0,65,65.0,9491
-SHP-0105,2026-07-05,Rift Petro Supplies Ltd,Ndola,Jet A-1,Kapiri Mposhi,Central,36000.0,150,150.0,22142
-SHP-0122,2026-07-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Mufulira,Copperbelt,38000.0,45,45.0,8266
-SHP-0218,2026-07-05,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,62222
-SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,28000.0,105,105.0,14560
-SHP-0060,2026-07-06,Rift Petro Supplies Ltd,Lusaka,Diesel,Livingstone,Southern,32000.0,485,485.0,72792
-SHP-0088,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,24000.0,575,575.0,62509
-SHP-0125,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,19846
-SHP-0257,2026-07-06,Zambezi Oil Distributors Ltd,Kabwe,Kerosene,Serenje,Central,38000.0,175,175.0,31734
-SHP-0388,2026-07-06,Copperbelt Fuels Ltd,Kitwe,Jet A-1,Chingola,Copperbelt,32000.0,65,65.0,10853
-SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,40000.0,215,215.0,39785
-SHP-0191,2026-07-07,Mosi Petroleum Merchants Ltd,Kitwe,Diesel,Chingola,Copperbelt,32000.0,65,65.0,9331
-SHP-0305,2026-07-07,Copperbelt Fuels Ltd,Livingstone,Petrol,Sesheke,Western,36000.0,145,145.0,22162
-SHP-0311,2026-07-07,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,34000.0,420,420.0,58388
-SHP-0395,2026-07-07,ZamFuel Trading Ltd,Lusaka,Kerosene,Kabwe,Central,36000.0,130,130.0,23190
-SHP-0079,2026-07-08,Rift Petro Supplies Ltd,Ndola,Diesel,Kitwe,Copperbelt,38000.0,65,65.0,11131
-SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kitwe,Diesel,Chingola,Copperbelt,24000.0,65,65.0,6713
-SHP-0269,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65032
-SHP-0352,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Ndola,Copperbelt,28000.0,370,370.0,46980
-SHP-0053,2026-07-09,Great Lakes Energy Ltd,Kabwe,Kerosene,Mkushi,Central,24000.0,95,95.0,9134
-SHP-0194,2026-07-09,Rift Petro Supplies Ltd,Kabwe,Petrol,Serenje,Central,38000.0,175,175.0,32621
-SHP-0342,2026-07-09,ZamFuel Trading Ltd,Kasama,Kerosene,Mpika,Muchinga,32000.0,190,190.0,23597
-SHP-0023,2026-07-10,ZamFuel Trading Ltd,Kasama,Petrol,Mpika,Muchinga,28000.0,190,190.0,21517
-SHP-0072,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,40000.0,455,455.0,70786
-SHP-0075,2026-07-10,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,47454
-SHP-0102,2026-07-10,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,19531
-SHP-0115,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,53789
-SHP-0156,2026-07-10,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,40000.0,215,215.0,40435
-SHP-0215,2026-07-10,Copperbelt Fuels Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,32000.0,105,105.0,16214
-SHP-0282,2026-07-10,ZamFuel Trading Ltd,Lusaka,Kerosene,Ndola,Copperbelt,38000.0,370,370.0,69988
-SHP-0106,2026-07-11,Great Lakes Energy Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,38000.0,105,105.0,17775
-SHP-0281,2026-07-11,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,20226
-SHP-0300,2026-07-11,Copperbelt Fuels Ltd,Ndola,Petrol,Mufulira,Copperbelt,30000.0,45,45.0,6528
-SHP-0323,2026-07-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,32000.0,365,365.0,56623
-SHP-0386,2026-07-11,Copperbelt Fuels Ltd,Kasama,Kerosene,Serenje,Central,40000.0,215,215.0,40199
-SHP-0110,2026-07-12,ZamFuel Trading Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,30000.0,40,40.0,5534
-SHP-0297,2026-07-12,Great Lakes Energy Ltd,Kasama,Petrol,Mbala,Northern,28000.0,90,90.0,10823
-SHP-0299,2026-07-12,Rift Petro Supplies Ltd,Ndola,Kerosene,Kapiri Mposhi,Central,28000.0,150,150.0,15918
-SHP-0031,2026-07-13,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Kapiri Mposhi,Central,40000.0,150,150.0,28962
-SHP-0080,2026-07-13,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,40000.0,150,150.0,24398
-SHP-0327,2026-07-13,ZamFuel Trading Ltd,Kabwe,Diesel,Mkushi,Central,38000.0,95,95.0,14854
-SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola,Petrol,Mufulira,Copperbelt,24000.0,45,45.0,5418
-SHP-0361,2026-07-13,Great Lakes Energy Ltd,Kitwe,Petrol,Chingola,Copperbelt,24000.0,65,65.0,7221
-SHP-0119,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,38000.0,575,575.0,97941
-SHP-0239,2026-07-14,Great Lakes Energy Ltd,Lusaka,Diesel,Kabwe,Central,30000.0,130,130.0,18319
-SHP-0263,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Mongu,Western,32000.0,560,560.0,75156
-SHP-0027,2026-07-15,ZamFuel Trading Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,76254
-SHP-0033,2026-07-15,Great Lakes Energy Ltd,Lusaka,Petrol,Chipata,Eastern,30000.0,365,365.0,55242
-SHP-0260,2026-07-15,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,30000.0,60,60.0,7721
-SHP-0392,2026-07-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,82560
-SHP-0050,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,71751
-SHP-0134,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Diesel,Chipata,Eastern,32000.0,365,365.0,54105
-SHP-0196,2026-07-16,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,36000.0,370,370.0,64435
-SHP-0320,2026-07-16,Mosi Petroleum Merchants Ltd,Kitwe,Kerosene,Chingola,Copperbelt,38000.0,65,65.0,11191
-SHP-0078,2026-07-17,Rift Petro Supplies Ltd,Ndola,Petrol,Solwezi,North-Western,40000.0,215,215.0,41039
-SHP-0083,2026-07-17,Rift Petro Supplies Ltd,Kabwe,Jet A-1,Serenje,Central,34000.0,175,175.0,27582
-SHP-0213,2026-07-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41548
-SHP-0066,2026-07-18,Great Lakes Energy Ltd,Ndola,Kerosene,Kitwe,Copperbelt,24000.0,65,65.0,7057
-SHP-0154,2026-07-18,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kitwe,Copperbelt,32000.0,65,65.0,8896
-SHP-0274,2026-07-18,Great Lakes Energy Ltd,Ndola,Jet A-1,Chingola,Copperbelt,38000.0,60,60.0,10128
-SHP-0338,2026-07-18,Copperbelt Fuels Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,32000.0,105,105.0,17163
-SHP-0341,2026-07-18,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,32000.0,485,485.0,70481
-SHP-0111,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Solwezi,North-Western,24000.0,575,575.0,59710
-SHP-0243,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Kitwe,Copperbelt,30000.0,345,345.0,41915
-SHP-0345,2026-07-19,Rift Petro Supplies Ltd,Ndola,Diesel,Kapiri Mposhi,Central,38000.0,150,150.0,21950
-SHP-0365,2026-07-19,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Solwezi,North-Western,28000.0,215,215.0,26432
-SHP-0373,2026-07-19,Rift Petro Supplies Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,57155
-SHP-0044,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Mongu,Western,32000.0,560,560.0,80759
-SHP-0070,2026-07-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,65734
-SHP-0123,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,24000.0,320,320.0,33425
-SHP-0153,2026-07-20,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,87028
-SHP-0265,2026-07-20,Copperbelt Fuels Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,36000.0,40,40.0,6299
-SHP-0334,2026-07-20,Copperbelt Fuels Ltd,Livingstone,Diesel,Sesheke,Western,24000.0,145,145.0,13024
-SHP-0303,2026-07-21,ZamFuel Trading Ltd,Ndola,Kerosene,Kitwe,Copperbelt,24000.0,65,65.0,6117
-SHP-0087,2026-07-23,Copperbelt Fuels Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,40000.0,105,105.0,20445
-SHP-0241,2026-07-23,Great Lakes Energy Ltd,Kabwe,Petrol,Serenje,Central,32000.0,175,175.0,26700
-SHP-0267,2026-07-23,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,89636
-SHP-0287,2026-07-23,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,28000.0,130,130.0,17333
-SHP-0351,2026-07-23,ZamFuel Trading Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,7718
-SHP-0018,2026-07-24,Great Lakes Energy Ltd,Lusaka,Diesel,Choma,Southern,38000.0,320,320.0,46764
-SHP-0021,2026-07-24,Rift Petro Supplies Ltd,Ndola,Petrol,Kapiri Mposhi,Central,34000.0,150,150.0,22033
-SHP-0208,2026-07-24,ZamFuel Trading Ltd,Ndola,Petrol,Solwezi,North-Western,32000.0,215,215.0,29670
-SHP-0030,2026-07-25,Zambezi Oil Distributors Ltd,Ndola,Petrol,Solwezi,North-Western,28000.0,215,215.0,27059
-SHP-0092,2026-07-25,Rift Petro Supplies Ltd,Ndola,Jet A-1,Solwezi,North-Western,34000.0,215,215.0,32589
-SHP-0177,2026-07-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,32000.0,575,575.0,78943
-SHP-0258,2026-07-25,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,58767
-SHP-0019,2026-07-27,ZamFuel Trading Ltd,Kabwe,Diesel,Serenje,Central,28000.0,175,175.0,22049
-SHP-0141,2026-07-27,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,63868
-SHP-0306,2026-07-27,Rift Petro Supplies Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,73424
-SHP-0387,2026-07-27,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,19393
-SHP-0067,2026-07-28,Rift Petro Supplies Ltd,Ndola,Kerosene,Kitwe,Copperbelt,30000.0,65,65.0,8516
-SHP-0308,2026-07-28,Great Lakes Energy Ltd,Ndola,Petrol,Mufulira,Copperbelt,30000.0,45,45.0,5748
-SHP-0376,2026-07-28,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,74665
-SHP-0034,2026-07-29,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63466
-SHP-0195,2026-07-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,38000.0,485,485.0,89698
-SHP-0381,2026-07-29,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,28000.0,65,65.0,7833
-SHP-0084,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41259
-SHP-0126,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,28000.0,420,420.0,46195
-SHP-0137,2026-07-30,Rift Petro Supplies Ltd,Kasama,Jet A-1,Mpika,Muchinga,38000.0,190,190.0,28545
-SHP-0152,2026-07-30,ZamFuel Trading Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,34000.0,40,40.0,6087
-SHP-0176,2026-07-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Kabwe,Central,32000.0,130,130.0,19645
-SHP-0237,2026-07-31,Great Lakes Energy Ltd,Lusaka,Petrol,Solwezi,North-Western,38000.0,575,575.0,102707
-SHP-0061,2026-08-01,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,28000.0,215,215.0,26200
-SHP-0085,2026-08-01,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,30000.0,130,130.0,19076
-SHP-0091,2026-08-01,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,66663
-SHP-0190,2026-08-01,ZamFuel Trading Ltd,Lusaka,Kerosene,Mongu,Western,32000.0,560,560.0,77767
-SHP-0340,2026-08-01,Copperbelt Fuels Ltd,Kitwe,Diesel,Chingola,Copperbelt,32000.0,65,65.0,9408
-SHP-0025,2026-08-02,Rift Petro Supplies Ltd,Ndola,Kerosene,Kapiri Mposhi,Central,34000.0,150,150.0,21796
-SHP-0090,2026-08-02,Rift Petro Supplies Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,47917
-SHP-0185,2026-08-02,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Kapiri Mposhi,Central,36000.0,150,150.0,22237
-SHP-0041,2026-08-03,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,71957
-SHP-0086,2026-08-03,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34131
-SHP-0359,2026-08-03,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,36000.0,420,420.0,65747
-SHP-0363,2026-08-03,ZamFuel Trading Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,60756
-SHP-0007,2026-08-04,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,30000.0,150,150.0,18794
-SHP-0015,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,71126
-SHP-0169,2026-08-04,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,36000.0,365,365.0,68819
-SHP-0187,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,65330
-SHP-0254,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,41861
-SHP-0280,2026-08-04,Copperbelt Fuels Ltd,Livingstone,Petrol,Kazungula,Southern,32000.0,80,80.0,12885
-SHP-0296,2026-08-04,Rift Petro Supplies Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,38000.0,40,40.0,7357
-SHP-0324,2026-08-04,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Kitwe,Copperbelt,34000.0,65,65.0,9604
-SHP-0005,2026-08-05,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34523
-SHP-0028,2026-08-05,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,40000.0,130,130.0,25649
-SHP-0144,2026-08-05,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8038
-SHP-0181,2026-08-05,Copperbelt Fuels Ltd,Kitwe,Jet A-1,Kalulushi,Copperbelt,36000.0,40,40.0,6111
-SHP-0200,2026-08-05,Rift Petro Supplies Ltd,Lusaka,Petrol,Mongu,Western,36000.0,560,560.0,91436
-SHP-0146,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,57384
-SHP-0174,2026-08-06,Great Lakes Energy Ltd,Kitwe,Kerosene,Chingola,Copperbelt,40000.0,65,65.0,12550
-SHP-0222,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,52125
-SHP-0400,2026-08-06,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,75309
-SHP-0109,2026-08-07,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34778
-SHP-0164,2026-08-07,Rift Petro Supplies Ltd,Lusaka,Petrol,Kabwe,Central,24000.0,130,130.0,16014
-SHP-0346,2026-08-07,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,34000.0,95,95.0,12673
-SHP-0020,2026-08-08,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,8255
-SHP-0073,2026-08-08,ZamFuel Trading Ltd,Livingstone,Jet A-1,Kazungula,Southern,38000.0,80,80.0,15753
-SHP-0076,2026-08-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Mongu,Western,34000.0,560,560.0,76940
-SHP-0095,2026-08-08,Great Lakes Energy Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,66450
-SHP-0298,2026-08-08,Rift Petro Supplies Ltd,Kabwe,Kerosene,Mkushi,Central,30000.0,95,95.0,11470
-SHP-0349,2026-08-08,Great Lakes Energy Ltd,Ndola,Diesel,Chingola,Copperbelt,40000.0,60,60.0,10688
-SHP-0166,2026-08-09,Great Lakes Energy Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63932
-SHP-0261,2026-08-09,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,28000.0,485,485.0,63627
-SHP-0294,2026-08-09,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34079
-SHP-0317,2026-08-09,Rift Petro Supplies Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,71960
-SHP-0360,2026-08-09,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,38000.0,60,60.0,9907
-SHP-0362,2026-08-09,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,86623
-SHP-0165,2026-08-10,Rift Petro Supplies Ltd,Ndola,Jet A-1,Kitwe,Copperbelt,36000.0,65,65.0,9567
-SHP-0035,2026-08-11,ZamFuel Trading Ltd,Lusaka,Diesel,Solwezi,North-Western,32000.0,575,575.0,83864
-SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama,Diesel,Serenje,Central,40000.0,215,215.0,38667
-SHP-0245,2026-08-11,Rift Petro Supplies Ltd,Ndola,Petrol,Chingola,Copperbelt,28000.0,60,60.0,8323
-SHP-0009,2026-08-12,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,38000.0,485,485.0,87839
-SHP-0065,2026-08-12,Rift Petro Supplies Ltd,Ndola,Petrol,Mufulira,Copperbelt,24000.0,45,45.0,5023
-SHP-0107,2026-08-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Solwezi,North-Western,34000.0,575,575.0,80621
-SHP-0182,2026-08-12,Rift Petro Supplies Ltd,Kitwe,Kerosene,Kalulushi,Copperbelt,24000.0,40,40.0,4521
-SHP-0244,2026-08-12,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,34000.0,65,65.0,9293
-SHP-0316,2026-08-12,ZamFuel Trading Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,61092
-SHP-0054,2026-08-13,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,24000.0,215,215.0,22362
-SHP-0059,2026-08-13,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,75580
-SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola,Kerosene,Kitwe,Copperbelt,38000.0,65,65.0,10411
-SHP-0127,2026-08-13,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Chipata,Eastern,34000.0,365,365.0,63584
-SHP-0149,2026-08-13,Great Lakes Energy Ltd,Lusaka,Kerosene,Solwezi,North-Western,34000.0,575,575.0,84369
-SHP-0016,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,24000.0,345,345.0,37054
-SHP-0286,2026-08-14,Copperbelt Fuels Ltd,Lusaka,Diesel,Mansa,Luapula,30000.0,455,455.0,56577
-SHP-0369,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,38000.0,365,365.0,69599
-SHP-0138,2026-08-15,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,73463
-SHP-0140,2026-08-15,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,37276
-SHP-0242,2026-08-15,Zambezi Oil Distributors Ltd,Kabwe,Diesel,Mkushi,Central,30000.0,95,95.0,12302
-SHP-0264,2026-08-15,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,28000.0,485,485.0,65624
-SHP-0339,2026-08-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,32000.0,320,320.0,42277
-SHP-0285,2026-08-16,Rift Petro Supplies Ltd,Ndola,Jet A-1,Chingola,Copperbelt,30000.0,60,60.0,8971
-SHP-0315,2026-08-16,Great Lakes Energy Ltd,Lusaka,Jet A-1,Mansa,Luapula,30000.0,455,455.0,56598
-SHP-0077,2026-08-17,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,36000.0,560,560.0,85766
-SHP-0314,2026-08-17,Zambezi Oil Distributors Ltd,Lusaka,Jet A-1,Mansa,Luapula,40000.0,455,455.0,73441
-SHP-0343,2026-08-17,Zambezi Oil Distributors Ltd,Kabwe,Kerosene,Mkushi,Central,32000.0,95,95.0,12700
-SHP-0011,2026-08-18,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,34000.0,455,455.0,67032
-SHP-0032,2026-08-18,Great Lakes Energy Ltd,Kasama,Diesel,Mpika,Muchinga,38000.0,190,190.0,26900
-SHP-0089,2026-08-18,Rift Petro Supplies Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,49311
-SHP-0118,2026-08-18,Great Lakes Energy Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,40000.0,105,105.0,17946
-SHP-0139,2026-08-18,ZamFuel Trading Ltd,Ndola,Kerosene,Kapiri Mposhi,Central,40000.0,150,150.0,26703
-SHP-0193,2026-08-18,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,59961
-SHP-0209,2026-08-18,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,74109
-SHP-0332,2026-08-18,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,32000.0,370,370.0,59926
-SHP-0377,2026-08-18,Rift Petro Supplies Ltd,Kitwe,Diesel,Chingola,Copperbelt,34000.0,65,65.0,10486
-SHP-0266,2026-08-19,Great Lakes Energy Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,34000.0,370,370.0,61266
-SHP-0366,2026-08-19,ZamFuel Trading Ltd,Lusaka,Kerosene,Solwezi,North-Western,32000.0,575,575.0,82511
-SHP-0394,2026-08-19,ZamFuel Trading Ltd,Ndola,Jet A-1,Solwezi,North-Western,28000.0,215,215.0,27001
-SHP-0004,2026-08-20,ZamFuel Trading Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,24000.0,105,105.0,11907
-SHP-0375,2026-08-20,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,40000.0,370,370.0,71840
-SHP-0026,2026-08-21,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,38000.0,370,370.0,66837
-SHP-0036,2026-08-21,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,34000.0,370,370.0,60707
-SHP-0186,2026-08-21,Rift Petro Supplies Ltd,Ndola,Jet A-1,Solwezi,North-Western,36000.0,215,215.0,34010
-SHP-0204,2026-08-21,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,95355
-SHP-0234,2026-08-21,Copperbelt Fuels Ltd,Ndola,Kerosene,Chingola,Copperbelt,24000.0,60,60.0,6787
-SHP-0256,2026-08-21,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,20234
-SHP-0288,2026-08-21,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mansa,Luapula,28000.0,455,455.0,51086
-SHP-0002,2026-08-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,85354
-SHP-0180,2026-08-22,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20077
-SHP-0247,2026-08-22,ZamFuel Trading Ltd,Ndola,Petrol,Chingola,Copperbelt,36000.0,60,60.0,9739
-SHP-0337,2026-08-22,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,34000.0,320,320.0,40716
-SHP-0064,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,34000.0,150,150.0,20741
-SHP-0130,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,36000.0,60,60.0,10381
-SHP-0148,2026-08-23,ZamFuel Trading Ltd,Lusaka,Kerosene,Petauke,Eastern,32000.0,420,420.0,55278
-SHP-0161,2026-08-23,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88129
-SHP-0226,2026-08-23,Copperbelt Fuels Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,10144
-SHP-0279,2026-08-23,ZamFuel Trading Ltd,Livingstone,Diesel,Choma,Southern,28000.0,200,200.0,23906
-SHP-0319,2026-08-23,Rift Petro Supplies Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,59251
-SHP-0329,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Mufulira,Copperbelt,34000.0,45,45.0,7735
-SHP-0353,2026-08-23,ZamFuel Trading Ltd,Ndola,Petrol,Kitwe,Copperbelt,28000.0,65,65.0,7478
-SHP-0160,2026-08-24,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,19439
-SHP-0276,2026-08-24,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,66066
-SHP-0014,2026-08-25,Zambezi Oil Distributors Ltd,Kabwe,Diesel,Serenje,Central,40000.0,175,175.0,30290
-SHP-0045,2026-08-25,ZamFuel Trading Ltd,Kabwe,Petrol,Serenje,Central,32000.0,175,175.0,24037
-SHP-0292,2026-08-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Kabwe,Central,32000.0,130,130.0,22288
-SHP-0094,2026-08-26,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,40000.0,455,455.0,76527
-SHP-0229,2026-08-26,Rift Petro Supplies Ltd,Ndola,Diesel,Mufulira,Copperbelt,28000.0,45,45.0,6064
-SHP-0321,2026-08-27,Rift Petro Supplies Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,34000.0,40,40.0,6156
-SHP-0037,2026-08-28,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,94204
-SHP-0168,2026-08-28,ZamFuel Trading Ltd,Kabwe,Petrol,Mkushi,Central,28000.0,95,95.0,10350
-SHP-0289,2026-08-28,Great Lakes Energy Ltd,Ndola,Diesel,Kitwe,Copperbelt,28000.0,65,65.0,7329
-SHP-0358,2026-08-28,Mosi Petroleum Merchants Ltd,Kabwe,Petrol,Mkushi,Central,40000.0,95,95.0,13557
-SHP-0048,2026-08-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,32000.0,560,560.0,76564
-SHP-0354,2026-08-29,Copperbelt Fuels Ltd,Ndola,Petrol,Chingola,Copperbelt,38000.0,60,60.0,10452
-SHP-0151,2026-08-30,Copperbelt Fuels Ltd,Kabwe,Diesel,Serenje,Central,24000.0,175,175.0,17885
-SHP-0184,2026-08-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,38000.0,365,365.0,78531
-SHP-0219,2026-08-30,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,34000.0,65,65.0,10679
-SHP-0371,2026-08-30,ZamFuel Trading Ltd,Ndola,Petrol,Kapiri Mposhi,Central,36000.0,150,150.0,23784
-SHP-0163,2026-08-31,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,40000.0,345,345.0,57009
-SHP-0216,2026-08-31,Great Lakes Energy Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,32000.0,105,105.0,16605
-SHP-0259,2026-08-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,39617
-SHP-0322,2026-08-31,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75015
-SHP-0038,2026-09-01,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Petauke,Eastern,40000.0,420,420.0,78843
-SHP-0068,2026-09-01,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Mongu,Western,28000.0,560,560.0,65758
-SHP-0232,2026-09-01,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,79980
-SHP-0117,2026-09-02,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,34000.0,150,150.0,21639
-SHP-0318,2026-09-02,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,36000.0,215,215.0,33668
-SHP-0307,2026-09-03,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,69543
-SHP-0374,2026-09-03,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Chipata,Eastern,30000.0,365,365.0,52769
-SHP-0008,2026-09-04,Zambezi Oil Distributors Ltd,Kabwe,Petrol,Mkushi,Central,30000.0,95,95.0,10996
-SHP-0399,2026-09-04,Great Lakes Energy Ltd,Lusaka,Petrol,Solwezi,North-Western,40000.0,575,575.0,97885
-SHP-0198,2026-09-05,Rift Petro Supplies Ltd,Livingstone,Petrol,Choma,Southern,30000.0,200,200.0,24007
-SHP-0393,2026-09-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Chingola,Copperbelt,36000.0,60,60.0,11128
-SHP-0173,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Kitwe,Copperbelt,34000.0,345,345.0,47119
-SHP-0291,2026-09-06,Copperbelt Fuels Ltd,Kabwe,Petrol,Serenje,Central,30000.0,175,175.0,24874
-SHP-0309,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Mongu,Western,40000.0,560,560.0,94511
-SHP-0238,2026-09-07,Great Lakes Energy Ltd,Kabwe,Diesel,Mkushi,Central,28000.0,95,95.0,10995
-SHP-0022,2026-09-08,ZamFuel Trading Ltd,Lusaka,Diesel,Chipata,Eastern,38000.0,365,365.0,69530
-SHP-0103,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,90354
-SHP-0114,2026-09-08,Copperbelt Fuels Ltd,Ndola,Jet A-1,Chingola,Copperbelt,28000.0,60,60.0,8105
-SHP-0205,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Kabwe,Central,36000.0,130,130.0,21088
-SHP-0206,2026-09-08,Great Lakes Energy Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,43818
-SHP-0383,2026-09-09,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,36000.0,150,150.0,22261
-SHP-0047,2026-09-10,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,74273
-SHP-0175,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,24000.0,370,370.0,40238
-SHP-0203,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75589
-SHP-0262,2026-09-10,Zambezi Oil Distributors Ltd,Kabwe,Diesel,Serenje,Central,30000.0,175,175.0,22657
-SHP-0248,2026-09-11,Rift Petro Supplies Ltd,Lusaka,Diesel,Mansa,Luapula,38000.0,455,455.0,75263
-SHP-0271,2026-09-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Choma,Southern,32000.0,320,320.0,42037
-SHP-0325,2026-09-11,ZamFuel Trading Ltd,Livingstone,Diesel,Kazungula,Southern,32000.0,80,80.0,12286
-SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Chipata,Eastern,36000.0,365,365.0,63480
-SHP-0135,2026-09-12,ZamFuel Trading Ltd,Ndola,Diesel,Chingola,Copperbelt,38000.0,60,60.0,11459
-SHP-0147,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,34000.0,365,365.0,60949
-SHP-0157,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Mongu,Western,24000.0,560,560.0,58928
-SHP-0167,2026-09-12,Great Lakes Energy Ltd,Kabwe,Jet A-1,Serenje,Central,28000.0,175,175.0,21664
-SHP-0171,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,34000.0,560,560.0,88380
-SHP-0302,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,64157
-SHP-0132,2026-09-13,Great Lakes Energy Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,10958
-SHP-0145,2026-09-13,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,38000.0,420,420.0,70422
-SHP-0284,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,28000.0,345,345.0,41394
-SHP-0348,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,38000.0,345,345.0,59115
-SHP-0116,2026-09-14,ZamFuel Trading Ltd,Livingstone,Jet A-1,Sesheke,Western,32000.0,145,145.0,18277
-SHP-0055,2026-09-15,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,36000.0,105,105.0,16932
-SHP-0210,2026-09-15,Copperbelt Fuels Ltd,Lusaka,Diesel,Petauke,Eastern,38000.0,420,420.0,69591
-SHP-0390,2026-09-15,Rift Petro Supplies Ltd,Livingstone,Diesel,Kazungula,Southern,38000.0,80,80.0,15766
-SHP-0039,2026-09-16,Great Lakes Energy Ltd,Lusaka,Diesel,Kitwe,Copperbelt,28000.0,345,345.0,41306
-SHP-0051,2026-09-16,ZamFuel Trading Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,45476
-SHP-0057,2026-09-16,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Solwezi,North-Western,34000.0,575,575.0,76152
-SHP-0221,2026-09-16,Great Lakes Energy Ltd,Lusaka,Kerosene,Mongu,Western,30000.0,560,560.0,73554
-SHP-0304,2026-09-16,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Petauke,Eastern,32000.0,420,420.0,61190
-SHP-0112,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Ndola,Copperbelt,24000.0,370,370.0,47829
-SHP-0240,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65663
-SHP-0255,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,38000.0,345,345.0,53894
-SHP-0273,2026-09-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Choma,Southern,28000.0,320,320.0,37825
-SHP-0082,2026-09-18,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,28000.0,455,455.0,54336
-SHP-0158,2026-09-18,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,32000.0,215,215.0,28147
-SHP-0201,2026-09-18,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,38000.0,150,150.0,25346
-SHP-0252,2026-09-19,Zambezi Oil Distributors Ltd,Livingstone,Petrol,Sesheke,Western,28000.0,145,145.0,16185
-SHP-0278,2026-09-19,Copperbelt Fuels Ltd,Lusaka,Diesel,Petauke,Eastern,38000.0,420,420.0,74365
-SHP-0310,2026-09-19,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,61676
-SHP-0356,2026-09-19,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,38000.0,420,420.0,71078
-SHP-0397,2026-09-19,ZamFuel Trading Ltd,Kabwe,Petrol,Serenje,Central,28000.0,175,175.0,22433
-SHP-0052,2026-09-20,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,21434
-SHP-0098,2026-09-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Choma,Southern,36000.0,320,320.0,50623
-SHP-0357,2026-09-20,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,38000.0,150,150.0,22540
-SHP-0046,2026-09-21,Great Lakes Energy Ltd,Kabwe,Kerosene,Mkushi,Central,32000.0,95,95.0,11667
-SHP-0293,2026-09-22,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,12057
-SHP-0378,2026-09-22,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,75515
-SHP-0385,2026-09-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,69030
-SHP-0224,2026-09-23,Copperbelt Fuels Ltd,Kitwe,Diesel,Chingola,Copperbelt,28000.0,65,65.0,9175
-SHP-0225,2026-09-23,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,64826
-SHP-0233,2026-09-23,ZamFuel Trading Ltd,Kasama,Diesel,Mpika,Muchinga,34000.0,190,190.0,27054
-SHP-0396,2026-09-23,Copperbelt Fuels Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,69324
-SHP-0013,2026-09-24,ZamFuel Trading Ltd,Ndola,Jet A-1,Mufulira,Copperbelt,28000.0,45,45.0,6487
-SHP-0093,2026-09-24,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,73643
-SHP-0100,2026-09-24,Rift Petro Supplies Ltd,Kasama,Diesel,Mpika,Muchinga,28000.0,190,190.0,22450
-SHP-0133,2026-09-24,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8267
-SHP-0170,2026-09-24,Rift Petro Supplies Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,11609
-SHP-0172,2026-09-24,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Petauke,Eastern,24000.0,420,420.0,49746
-SHP-0212,2026-09-24,Rift Petro Supplies Ltd,Ndola,Diesel,Chingola,Copperbelt,34000.0,60,60.0,9670
-SHP-0275,2026-09-24,Rift Petro Supplies Ltd,Ndola,Kerosene,Solwezi,North-Western,34000.0,215,215.0,33055
-SHP-0333,2026-09-24,ZamFuel Trading Ltd,Ndola,Petrol,Solwezi,North-Western,38000.0,215,215.0,35203
-SHP-0058,2026-09-25,Copperbelt Fuels Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,11242
-SHP-0220,2026-09-25,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,36000.0,455,455.0,63145
-SHP-0231,2026-09-25,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,84386
-SHP-0249,2026-09-25,Great Lakes Energy Ltd,Lusaka,Kerosene,Mansa,Luapula,28000.0,455,455.0,55903
-SHP-0295,2026-09-25,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Kazungula,Southern,40000.0,80,80.0,16560
-SHP-0313,2026-09-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Kitwe,Copperbelt,24000.0,345,345.0,34279
-SHP-0391,2026-09-25,ZamFuel Trading Ltd,Ndola,Diesel,Mufulira,Copperbelt,24000.0,45,45.0,4666
-SHP-0128,2026-09-26,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Livingstone,Southern,30000.0,485,485.0,67676
-SHP-0143,2026-09-26,Zambezi Oil Distributors Ltd,Kitwe,Petrol,Chingola,Copperbelt,38000.0,65,65.0,11924
-SHP-0344,2026-09-26,ZamFuel Trading Ltd,Ndola,Kerosene,Chingola,Copperbelt,34000.0,60,60.0,10099
-SHP-0113,2026-09-27,ZamFuel Trading Ltd,Lusaka,Kerosene,Mongu,Western,32000.0,560,560.0,69972
-SHP-0268,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,84417
-SHP-0270,2026-09-27,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,24000.0,130,130.0,14799
-SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Chipata,Eastern,24000.0,365,365.0,46561
-SHP-0331,2026-09-27,Copperbelt Fuels Ltd,Ndola,Jet A-1,Kasumbalesa,Copperbelt,30000.0,105,105.0,14762
-SHP-0370,2026-09-27,Rift Petro Supplies Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,34000.0,40,40.0,5831
-SHP-0142,2026-09-28,Rift Petro Supplies Ltd,Lusaka,Kerosene,Petauke,Eastern,40000.0,420,420.0,72496
-SHP-0179,2026-09-28,Zambezi Oil Distributors Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,30000.0,40,40.0,5137
-SHP-0189,2026-09-28,ZamFuel Trading Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,26693
-SHP-0199,2026-09-28,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,58964
-SHP-0211,2026-09-28,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,30000.0,215,215.0,27778
-SHP-0350,2026-09-28,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Choma,Southern,24000.0,320,320.0,34346
-SHP-0155,2026-09-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,66738
-SHP-0253,2026-09-29,Great Lakes Energy Ltd,Lusaka,Petrol,Solwezi,North-Western,38000.0,575,575.0,103949
-SHP-0290,2026-09-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,38519
-SHP-0120,2026-09-30,Zambezi Oil Distributors Ltd,Ndola,Diesel,Mufulira,Copperbelt,32000.0,45,45.0,7525
-SHP-0217,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,75961
-SHP-0355,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,24000.0,575,575.0,57237
-SHP-0368,2026-09-30,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,30000.0,215,215.0,27317
+record_id,shipment_id,shipment_date,company,depot,product,destination,province,volume_litres,reference_distance_km,claimed_distance_km,transport_cost
+1,SHP-0001,2026-07-01,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,38000.0,95,95.0,12761
+42,SHP-0042,2026-07-01,ZamFuel Trading Ltd,Livingstone,Kerosene,Sesheke,Western,36000.0,145,145.0,22758
+228,SHP-0228,2026-07-01,ZamFuel Trading Ltd,Ndola,Petrol,Chingola,Copperbelt,36000.0,60,60.0,10312
+246,SHP-0246,2026-07-01,Zambezi Oil Distributors Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,40000.0,40,40.0,7251
+389,SHP-0389,2026-07-01,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,24000.0,485,485.0,50800
+10,SHP-0010,2026-07-03,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Solwezi,North-Western,28000.0,575,575.0,72936
+69,SHP-0069,2026-07-03,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,38000.0,130,130.0,23985
+159,SHP-0159,2026-07-03,Rift Petro Supplies Ltd,Ndola,Diesel,Kapiri Mposhi,Central,34000.0,150,150.0,22208
+236,SHP-0236,2026-07-03,ZamFuel Trading Ltd,Kabwe,Diesel,Serenje,Central,40000.0,175,175.0,33229
+312,SHP-0312,2026-07-03,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,38000.0,575,575.0,98987
+230,SHP-0230,2026-07-04,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88651
+328,SHP-0328,2026-07-04,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,40000.0,65,65.0,9445
+364,SHP-0364,2026-07-04,ZamFuel Trading Ltd,Lusaka,Petrol,Choma,Southern,30000.0,320,320.0,43721
+372,SHP-0372,2026-07-04,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,40000.0,560,560.0,90027
+12,SHP-0012,2026-07-05,Rift Petro Supplies Ltd,Kasama,Petrol,Mpika,Muchinga,30000.0,190,190.0,23586
+105,SHP-0105,2026-07-05,Rift Petro Supplies Ltd,Kabwe,Jet A-1,Mkushi,Central,36000.0,95,95.0,13329
+122,SHP-0122,2026-07-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Solwezi,North-Western,38000.0,215,215.0,36236
+218,SHP-0218,2026-07-05,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,62222
+380,SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kapiri Mposhi,Central,28000.0,150,150.0,18124
+60,SHP-0060,2026-07-06,Rift Petro Supplies Ltd,Lusaka,Diesel,Livingstone,Southern,32000.0,485,485.0,72792
+88,SHP-0088,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,24000.0,420,420.0,45685
+125,SHP-0125,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,19846
+257,SHP-0257,2026-07-06,Zambezi Oil Distributors Ltd,Livingstone,Kerosene,Kazungula,Southern,38000.0,80,80.0,15849
+388,SHP-0388,2026-07-06,Copperbelt Fuels Ltd,Kasama,Jet A-1,Mbala,Northern,32000.0,90,90.0,13732
+40,SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,40000.0,215,215.0,39785
+191,SHP-0191,2026-07-07,Mosi Petroleum Merchants Ltd,Kasama,Diesel,Mpika,Muchinga,32000.0,190,190.0,23187
+305,SHP-0305,2026-07-07,Copperbelt Fuels Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,36000.0,40,40.0,6841
+311,SHP-0311,2026-07-07,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,34000.0,420,420.0,58388
+395,SHP-0395,2026-07-07,ZamFuel Trading Ltd,Lusaka,Kerosene,Kabwe,Central,36000.0,130,130.0,23190
+79,SHP-0079,2026-07-08,Rift Petro Supplies Ltd,Ndola,Diesel,Chingola,Copperbelt,38000.0,60,60.0,11537
+235,SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kasama,Diesel,Mpika,Muchinga,24000.0,190,190.0,16681
+269,SHP-0269,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65032
+352,SHP-0352,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Ndola,Copperbelt,28000.0,370,370.0,46980
+53,SHP-0053,2026-07-09,Great Lakes Energy Ltd,Kabwe,Kerosene,Serenje,Central,24000.0,175,175.0,19207
+194,SHP-0194,2026-07-09,Rift Petro Supplies Ltd,Livingstone,Petrol,Sesheke,Western,38000.0,145,145.0,23880
+342,SHP-0342,2026-07-09,ZamFuel Trading Ltd,Kasama,Kerosene,Mbala,Northern,32000.0,90,90.0,12014
+23,SHP-0023,2026-07-10,ZamFuel Trading Ltd,Kasama,Petrol,Mbala,Northern,28000.0,90,90.0,10955
+72,SHP-0072,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Petrol,Solwezi,North-Western,40000.0,575,575.0,92924
+75,SHP-0075,2026-07-10,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,47454
+102,SHP-0102,2026-07-10,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,19531
+115,SHP-0115,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,53789
+156,SHP-0156,2026-07-10,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,40000.0,215,215.0,40435
+215,SHP-0215,2026-07-10,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20183
+282,SHP-0282,2026-07-10,ZamFuel Trading Ltd,Lusaka,Kerosene,Ndola,Copperbelt,38000.0,370,370.0,69988
+106,SHP-0106,2026-07-11,Great Lakes Energy Ltd,Ndola,Diesel,Kapiri Mposhi,Central,38000.0,150,150.0,22126
+281,SHP-0281,2026-07-11,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,20226
+300,SHP-0300,2026-07-11,Copperbelt Fuels Ltd,Ndola,Petrol,Solwezi,North-Western,30000.0,215,215.0,28617
+323,SHP-0323,2026-07-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,32000.0,365,365.0,56623
+386,SHP-0386,2026-07-11,Copperbelt Fuels Ltd,Kasama,Kerosene,Serenje,Central,40000.0,215,215.0,40199
+110,SHP-0110,2026-07-12,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,30000.0,65,65.0,9572
+297,SHP-0297,2026-07-12,Great Lakes Energy Ltd,Kasama,Petrol,Serenje,Central,28000.0,215,215.0,27925
+299,SHP-0299,2026-07-12,Rift Petro Supplies Ltd,Kabwe,Kerosene,Mkushi,Central,28000.0,95,95.0,9582
+31,SHP-0031,2026-07-13,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Kapiri Mposhi,Central,40000.0,150,150.0,28962
+80,SHP-0080,2026-07-13,Copperbelt Fuels Ltd,Kabwe,Diesel,Serenje,Central,40000.0,175,175.0,30884
+327,SHP-0327,2026-07-13,ZamFuel Trading Ltd,Kabwe,Diesel,Serenje,Central,38000.0,175,175.0,31237
+336,SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola,Petrol,Mufulira,Copperbelt,24000.0,45,45.0,5418
+361,SHP-0361,2026-07-13,Great Lakes Energy Ltd,Kasama,Petrol,Mpika,Muchinga,24000.0,190,190.0,17945
+119,SHP-0119,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,38000.0,575,575.0,97941
+239,SHP-0239,2026-07-14,Great Lakes Energy Ltd,Lusaka,Diesel,Kabwe,Central,30000.0,130,130.0,18319
+263,SHP-0263,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,56871
+27,SHP-0027,2026-07-15,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,30000.0,420,420.0,55731
+33,SHP-0033,2026-07-15,Great Lakes Energy Ltd,Lusaka,Petrol,Chipata,Eastern,30000.0,365,365.0,55242
+260,SHP-0260,2026-07-15,Copperbelt Fuels Ltd,Ndola,Diesel,Mufulira,Copperbelt,30000.0,45,45.0,5786
+392,SHP-0392,2026-07-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,82560
+50,SHP-0050,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,71751
+134,SHP-0134,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Diesel,Chipata,Eastern,32000.0,365,365.0,54105
+196,SHP-0196,2026-07-16,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,36000.0,370,370.0,64435
+320,SHP-0320,2026-07-16,Mosi Petroleum Merchants Ltd,Kasama,Kerosene,Mpika,Muchinga,38000.0,190,190.0,27809
+78,SHP-0078,2026-07-17,Rift Petro Supplies Ltd,Ndola,Petrol,Solwezi,North-Western,40000.0,215,215.0,41039
+83,SHP-0083,2026-07-17,Rift Petro Supplies Ltd,Livingstone,Jet A-1,Kazungula,Southern,34000.0,80,80.0,13775
+213,SHP-0213,2026-07-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41548
+66,SHP-0066,2026-07-18,Great Lakes Energy Ltd,Ndola,Kerosene,Chingola,Copperbelt,24000.0,60,60.0,7315
+154,SHP-0154,2026-07-18,Zambezi Oil Distributors Ltd,Ndola,Petrol,Chingola,Copperbelt,32000.0,60,60.0,9221
+274,SHP-0274,2026-07-18,Great Lakes Energy Ltd,Ndola,Jet A-1,Mufulira,Copperbelt,38000.0,45,45.0,7590
+338,SHP-0338,2026-07-18,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,21364
+341,SHP-0341,2026-07-18,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,32000.0,485,485.0,70481
+111,SHP-0111,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,24000.0,420,420.0,43639
+243,SHP-0243,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Kitwe,Copperbelt,30000.0,345,345.0,41915
+345,SHP-0345,2026-07-19,Rift Petro Supplies Ltd,Kabwe,Diesel,Serenje,Central,38000.0,175,175.0,27785
+365,SHP-0365,2026-07-19,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Solwezi,North-Western,28000.0,215,215.0,26432
+373,SHP-0373,2026-07-19,Rift Petro Supplies Ltd,Lusaka,Petrol,Mansa,Luapula,32000.0,455,455.0,61203
+44,SHP-0044,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Chipata,Eastern,32000.0,365,365.0,61111
+70,SHP-0070,2026-07-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,65734
+123,SHP-0123,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,24000.0,320,320.0,33425
+153,SHP-0153,2026-07-20,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,87028
+265,SHP-0265,2026-07-20,Copperbelt Fuels Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,10894
+334,SHP-0334,2026-07-20,Copperbelt Fuels Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,24000.0,40,40.0,4020
+303,SHP-0303,2026-07-21,ZamFuel Trading Ltd,Ndola,Kerosene,Kitwe,Copperbelt,24000.0,65,65.0,6117
+87,SHP-0087,2026-07-23,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,25449
+241,SHP-0241,2026-07-23,Great Lakes Energy Ltd,Livingstone,Petrol,Sesheke,Western,32000.0,145,145.0,19546
+267,SHP-0267,2026-07-23,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,89636
+287,SHP-0287,2026-07-23,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,28000.0,130,130.0,17333
+351,SHP-0351,2026-07-23,ZamFuel Trading Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,7718
+18,SHP-0018,2026-07-24,Great Lakes Energy Ltd,Lusaka,Diesel,Choma,Southern,38000.0,320,320.0,46764
+21,SHP-0021,2026-07-24,Rift Petro Supplies Ltd,Kabwe,Petrol,Mkushi,Central,34000.0,95,95.0,13262
+208,SHP-0208,2026-07-24,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,32000.0,105,105.0,16002
+30,SHP-0030,2026-07-25,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,28000.0,105,105.0,14593
+92,SHP-0092,2026-07-25,Rift Petro Supplies Ltd,Ndola,Jet A-1,Kasumbalesa,Copperbelt,34000.0,105,105.0,17576
+177,SHP-0177,2026-07-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,32000.0,575,575.0,78943
+258,SHP-0258,2026-07-25,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,58767
+19,SHP-0019,2026-07-27,ZamFuel Trading Ltd,Livingstone,Diesel,Sesheke,Western,28000.0,145,145.0,16141
+141,SHP-0141,2026-07-27,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,63868
+306,SHP-0306,2026-07-27,Rift Petro Supplies Ltd,Lusaka,Diesel,Petauke,Eastern,30000.0,420,420.0,53663
+387,SHP-0387,2026-07-27,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kapiri Mposhi,Central,38000.0,150,150.0,24140
+67,SHP-0067,2026-07-28,Rift Petro Supplies Ltd,Ndola,Kerosene,Chingola,Copperbelt,30000.0,60,60.0,8827
+308,SHP-0308,2026-07-28,Great Lakes Energy Ltd,Ndola,Petrol,Solwezi,North-Western,30000.0,215,215.0,25196
+376,SHP-0376,2026-07-28,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,74665
+34,SHP-0034,2026-07-29,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63466
+195,SHP-0195,2026-07-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,38000.0,370,370.0,70430
+381,SHP-0381,2026-07-29,ZamFuel Trading Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8119
+84,SHP-0084,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41259
+126,SHP-0126,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,28000.0,420,420.0,46195
+137,SHP-0137,2026-07-30,Rift Petro Supplies Ltd,Kasama,Jet A-1,Mbala,Northern,38000.0,90,90.0,14534
+152,SHP-0152,2026-07-30,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,34000.0,65,65.0,10529
+176,SHP-0176,2026-07-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Kabwe,Central,32000.0,130,130.0,19645
+237,SHP-0237,2026-07-31,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,38000.0,420,420.0,75064
+61,SHP-0061,2026-08-01,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,28000.0,215,215.0,26200
+85,SHP-0085,2026-08-01,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,30000.0,130,130.0,19076
+91,SHP-0091,2026-08-01,Great Lakes Energy Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,52343
+190,SHP-0190,2026-08-01,ZamFuel Trading Ltd,Lusaka,Kerosene,Mongu,Western,32000.0,560,560.0,77767
+340,SHP-0340,2026-08-01,Copperbelt Fuels Ltd,Kasama,Diesel,Mpika,Muchinga,32000.0,190,190.0,23379
+25,SHP-0025,2026-08-02,Rift Petro Supplies Ltd,Kabwe,Kerosene,Mkushi,Central,34000.0,95,95.0,13120
+90,SHP-0090,2026-08-02,Rift Petro Supplies Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,47917
+185,SHP-0185,2026-08-02,Mosi Petroleum Merchants Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,13386
+41,SHP-0041,2026-08-03,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,71957
+86,SHP-0086,2026-08-03,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34131
+359,SHP-0359,2026-08-03,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,36000.0,420,420.0,65747
+363,SHP-0363,2026-08-03,ZamFuel Trading Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,60756
+7,SHP-0007,2026-08-04,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,30000.0,95,95.0,11313
+15,SHP-0015,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,71126
+169,SHP-0169,2026-08-04,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,36000.0,365,365.0,68819
+187,SHP-0187,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,65330
+254,SHP-0254,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,41861
+280,SHP-0280,2026-08-04,Copperbelt Fuels Ltd,Livingstone,Petrol,Choma,Southern,32000.0,200,200.0,27143
+296,SHP-0296,2026-08-04,Rift Petro Supplies Ltd,Kitwe,Diesel,Chingola,Copperbelt,38000.0,65,65.0,12725
+324,SHP-0324,2026-08-04,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Kitwe,Copperbelt,34000.0,65,65.0,9604
+5,SHP-0005,2026-08-05,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34523
+28,SHP-0028,2026-08-05,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,40000.0,130,130.0,25649
+144,SHP-0144,2026-08-05,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8038
+181,SHP-0181,2026-08-05,Copperbelt Fuels Ltd,Kitwe,Jet A-1,Chingola,Copperbelt,36000.0,65,65.0,10571
+200,SHP-0200,2026-08-05,Rift Petro Supplies Ltd,Lusaka,Petrol,Chipata,Eastern,36000.0,365,365.0,69190
+146,SHP-0146,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,57384
+174,SHP-0174,2026-08-06,Great Lakes Energy Ltd,Kasama,Kerosene,Mpika,Muchinga,40000.0,190,190.0,31186
+222,SHP-0222,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,52125
+400,SHP-0400,2026-08-06,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,75309
+109,SHP-0109,2026-08-07,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34778
+164,SHP-0164,2026-08-07,Rift Petro Supplies Ltd,Lusaka,Petrol,Kabwe,Central,24000.0,130,130.0,16014
+346,SHP-0346,2026-08-07,Copperbelt Fuels Ltd,Kabwe,Petrol,Serenje,Central,34000.0,175,175.0,26650
+20,SHP-0020,2026-08-08,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Solwezi,North-Western,36000.0,215,215.0,36189
+73,SHP-0073,2026-08-08,ZamFuel Trading Ltd,Livingstone,Jet A-1,Choma,Southern,38000.0,200,200.0,33183
+76,SHP-0076,2026-08-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Mongu,Western,34000.0,560,560.0,76940
+95,SHP-0095,2026-08-08,Great Lakes Energy Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,66450
+298,SHP-0298,2026-08-08,Rift Petro Supplies Ltd,Kabwe,Kerosene,Serenje,Central,30000.0,175,175.0,24120
+349,SHP-0349,2026-08-08,Great Lakes Energy Ltd,Ndola,Diesel,Mufulira,Copperbelt,40000.0,45,45.0,8010
+166,SHP-0166,2026-08-09,Great Lakes Energy Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63932
+261,SHP-0261,2026-08-09,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,28000.0,485,485.0,63627
+294,SHP-0294,2026-08-09,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34079
+317,SHP-0317,2026-08-09,Rift Petro Supplies Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,71960
+360,SHP-0360,2026-08-09,Copperbelt Fuels Ltd,Ndola,Diesel,Mufulira,Copperbelt,38000.0,45,45.0,7424
+362,SHP-0362,2026-08-09,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,86623
+165,SHP-0165,2026-08-10,Rift Petro Supplies Ltd,Ndola,Jet A-1,Chingola,Copperbelt,36000.0,60,60.0,9916
+35,SHP-0035,2026-08-11,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,32000.0,420,420.0,61293
+178,SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama,Diesel,Serenje,Central,40000.0,215,215.0,38667
+245,SHP-0245,2026-08-11,Rift Petro Supplies Ltd,Ndola,Petrol,Mufulira,Copperbelt,28000.0,45,45.0,6237
+9,SHP-0009,2026-08-12,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,38000.0,485,485.0,87839
+65,SHP-0065,2026-08-12,Rift Petro Supplies Ltd,Ndola,Petrol,Solwezi,North-Western,24000.0,215,215.0,22020
+107,SHP-0107,2026-08-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Solwezi,North-Western,34000.0,575,575.0,80621
+182,SHP-0182,2026-08-12,Rift Petro Supplies Ltd,Kitwe,Kerosene,Chingola,Copperbelt,24000.0,65,65.0,7819
+244,SHP-0244,2026-08-12,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,34000.0,65,65.0,9293
+316,SHP-0316,2026-08-12,ZamFuel Trading Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,61092
+54,SHP-0054,2026-08-13,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,24000.0,215,215.0,22362
+59,SHP-0059,2026-08-13,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,75580
+63,SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,10792
+127,SHP-0127,2026-08-13,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Chipata,Eastern,34000.0,365,365.0,63584
+149,SHP-0149,2026-08-13,Great Lakes Energy Ltd,Lusaka,Kerosene,Solwezi,North-Western,34000.0,575,575.0,84369
+16,SHP-0016,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,24000.0,345,345.0,37054
+286,SHP-0286,2026-08-14,Copperbelt Fuels Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,74270
+369,SHP-0369,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,38000.0,365,365.0,69599
+138,SHP-0138,2026-08-15,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,73463
+140,SHP-0140,2026-08-15,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,37276
+242,SHP-0242,2026-08-15,Zambezi Oil Distributors Ltd,Kabwe,Diesel,Serenje,Central,30000.0,175,175.0,25869
+264,SHP-0264,2026-08-15,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,28000.0,485,485.0,65624
+339,SHP-0339,2026-08-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,32000.0,320,320.0,42277
+285,SHP-0285,2026-08-16,Rift Petro Supplies Ltd,Ndola,Jet A-1,Chingola,Copperbelt,30000.0,60,60.0,8971
+315,SHP-0315,2026-08-16,Great Lakes Energy Ltd,Lusaka,Jet A-1,Mansa,Luapula,30000.0,455,455.0,56598
+77,SHP-0077,2026-08-17,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,36000.0,560,560.0,85766
+314,SHP-0314,2026-08-17,Zambezi Oil Distributors Ltd,Lusaka,Jet A-1,Mansa,Luapula,40000.0,455,455.0,73441
+343,SHP-0343,2026-08-17,Zambezi Oil Distributors Ltd,Kabwe,Kerosene,Serenje,Central,32000.0,175,175.0,26707
+11,SHP-0011,2026-08-18,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,34000.0,455,455.0,67032
+32,SHP-0032,2026-08-18,Great Lakes Energy Ltd,Kasama,Diesel,Mbala,Northern,38000.0,90,90.0,13696
+89,SHP-0089,2026-08-18,Rift Petro Supplies Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,49311
+118,SHP-0118,2026-08-18,Great Lakes Energy Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,22339
+139,SHP-0139,2026-08-18,ZamFuel Trading Ltd,Kabwe,Kerosene,Serenje,Central,40000.0,175,175.0,33802
+193,SHP-0193,2026-08-18,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,59961
+209,SHP-0209,2026-08-18,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,74109
+332,SHP-0332,2026-08-18,ZamFuel Trading Ltd,Lusaka,Diesel,Kitwe,Copperbelt,32000.0,345,345.0,49154
+377,SHP-0377,2026-08-18,Rift Petro Supplies Ltd,Kasama,Diesel,Mpika,Muchinga,34000.0,190,190.0,26057
+266,SHP-0266,2026-08-19,Great Lakes Energy Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,34000.0,370,370.0,61266
+366,SHP-0366,2026-08-19,ZamFuel Trading Ltd,Lusaka,Kerosene,Solwezi,North-Western,32000.0,575,575.0,82511
+394,SHP-0394,2026-08-19,ZamFuel Trading Ltd,Ndola,Jet A-1,Kasumbalesa,Copperbelt,28000.0,105,105.0,14563
+4,SHP-0004,2026-08-20,ZamFuel Trading Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,24000.0,105,105.0,11907
+375,SHP-0375,2026-08-20,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,40000.0,370,370.0,71840
+26,SHP-0026,2026-08-21,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,38000.0,370,370.0,66837
+36,SHP-0036,2026-08-21,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,34000.0,370,370.0,60707
+186,SHP-0186,2026-08-21,Rift Petro Supplies Ltd,Ndola,Jet A-1,Solwezi,North-Western,36000.0,215,215.0,34010
+204,SHP-0204,2026-08-21,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,95355
+234,SHP-0234,2026-08-21,Copperbelt Fuels Ltd,Ndola,Kerosene,Mufulira,Copperbelt,24000.0,45,45.0,5086
+256,SHP-0256,2026-08-21,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,20234
+288,SHP-0288,2026-08-21,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mansa,Luapula,28000.0,455,455.0,51086
+2,SHP-0002,2026-08-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,85354
+180,SHP-0180,2026-08-22,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20077
+247,SHP-0247,2026-08-22,ZamFuel Trading Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,7299
+337,SHP-0337,2026-08-22,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,34000.0,320,320.0,40716
+64,SHP-0064,2026-08-23,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,34000.0,95,95.0,12485
+130,SHP-0130,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,36000.0,60,60.0,10381
+148,SHP-0148,2026-08-23,ZamFuel Trading Ltd,Ndola,Kerosene,Kitwe,Copperbelt,32000.0,65,65.0,8209
+161,SHP-0161,2026-08-23,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88129
+226,SHP-0226,2026-08-23,Copperbelt Fuels Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,25209
+279,SHP-0279,2026-08-23,ZamFuel Trading Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,28000.0,40,40.0,5135
+319,SHP-0319,2026-08-23,Rift Petro Supplies Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,59251
+329,SHP-0329,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,34000.0,215,215.0,33910
+353,SHP-0353,2026-08-23,ZamFuel Trading Ltd,Ndola,Petrol,Chingola,Copperbelt,28000.0,60,60.0,7752
+160,SHP-0160,2026-08-24,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,32000.0,95,95.0,11702
+276,SHP-0276,2026-08-24,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,66066
+14,SHP-0014,2026-08-25,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Kazungula,Southern,40000.0,80,80.0,15128
+45,SHP-0045,2026-08-25,ZamFuel Trading Ltd,Livingstone,Petrol,Sesheke,Western,32000.0,145,145.0,17596
+292,SHP-0292,2026-08-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,46229
+94,SHP-0094,2026-08-26,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,40000.0,455,455.0,76527
+229,SHP-0229,2026-08-26,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,28000.0,215,215.0,26582
+321,SHP-0321,2026-08-27,Rift Petro Supplies Ltd,Kitwe,Diesel,Chingola,Copperbelt,34000.0,65,65.0,10647
+37,SHP-0037,2026-08-28,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,94204
+168,SHP-0168,2026-08-28,ZamFuel Trading Ltd,Livingstone,Petrol,Kazungula,Southern,28000.0,80,80.0,10870
+289,SHP-0289,2026-08-28,Great Lakes Energy Ltd,Ndola,Diesel,Kitwe,Copperbelt,28000.0,65,65.0,7329
+358,SHP-0358,2026-08-28,Mosi Petroleum Merchants Ltd,Kabwe,Petrol,Serenje,Central,40000.0,175,175.0,28510
+48,SHP-0048,2026-08-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,32000.0,560,560.0,76564
+354,SHP-0354,2026-08-29,Copperbelt Fuels Ltd,Ndola,Petrol,Chingola,Copperbelt,38000.0,60,60.0,10452
+151,SHP-0151,2026-08-30,Copperbelt Fuels Ltd,Livingstone,Diesel,Sesheke,Western,24000.0,145,145.0,13093
+184,SHP-0184,2026-08-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,38000.0,365,365.0,78531
+219,SHP-0219,2026-08-30,ZamFuel Trading Ltd,Kasama,Petrol,Mpika,Muchinga,34000.0,190,190.0,26537
+371,SHP-0371,2026-08-30,ZamFuel Trading Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,14317
+163,SHP-0163,2026-08-31,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,40000.0,345,345.0,57009
+216,SHP-0216,2026-08-31,Great Lakes Energy Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20670
+259,SHP-0259,2026-08-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,39617
+322,SHP-0322,2026-08-31,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75015
+38,SHP-0038,2026-09-01,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Petauke,Eastern,40000.0,420,420.0,78843
+68,SHP-0068,2026-09-01,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Chipata,Eastern,28000.0,365,365.0,49759
+232,SHP-0232,2026-09-01,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,79980
+117,SHP-0117,2026-09-02,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,34000.0,95,95.0,13025
+318,SHP-0318,2026-09-02,ZamFuel Trading Ltd,Ndola,Kerosene,Kasumbalesa,Copperbelt,36000.0,105,105.0,18158
+307,SHP-0307,2026-09-03,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,69543
+374,SHP-0374,2026-09-03,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Chipata,Eastern,30000.0,365,365.0,52769
+8,SHP-0008,2026-09-04,Zambezi Oil Distributors Ltd,Kabwe,Petrol,Serenje,Central,30000.0,175,175.0,23123
+399,SHP-0399,2026-09-04,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,71540
+198,SHP-0198,2026-09-05,Rift Petro Supplies Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,30000.0,40,40.0,5156
+393,SHP-0393,2026-09-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Mufulira,Copperbelt,36000.0,45,45.0,8339
+173,SHP-0173,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,34000.0,560,560.0,77223
+291,SHP-0291,2026-09-06,Copperbelt Fuels Ltd,Livingstone,Petrol,Sesheke,Western,30000.0,145,145.0,18209
+309,SHP-0309,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Mongu,Western,40000.0,560,560.0,94511
+238,SHP-0238,2026-09-07,Great Lakes Energy Ltd,Kabwe,Diesel,Serenje,Central,28000.0,175,175.0,23121
+22,SHP-0022,2026-09-08,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,38000.0,455,455.0,74455
+103,SHP-0103,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,90354
+114,SHP-0114,2026-09-08,Copperbelt Fuels Ltd,Ndola,Jet A-1,Chingola,Copperbelt,28000.0,60,60.0,8105
+205,SHP-0205,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Kabwe,Central,36000.0,130,130.0,21088
+206,SHP-0206,2026-09-08,Great Lakes Energy Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,43818
+383,SHP-0383,2026-09-09,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,13400
+47,SHP-0047,2026-09-10,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,74273
+175,SHP-0175,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,24000.0,370,370.0,40238
+203,SHP-0203,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75589
+262,SHP-0262,2026-09-10,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Sesheke,Western,30000.0,145,145.0,16586
+248,SHP-0248,2026-09-11,Rift Petro Supplies Ltd,Lusaka,Diesel,Solwezi,North-Western,38000.0,575,575.0,98801
+271,SHP-0271,2026-09-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Choma,Southern,32000.0,320,320.0,42037
+325,SHP-0325,2026-09-11,ZamFuel Trading Ltd,Livingstone,Diesel,Choma,Southern,32000.0,200,200.0,25880
+97,SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,67976
+135,SHP-0135,2026-09-12,ZamFuel Trading Ltd,Ndola,Diesel,Mufulira,Copperbelt,38000.0,45,45.0,8587
+147,SHP-0147,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,34000.0,365,365.0,60949
+157,SHP-0157,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Mongu,Western,24000.0,560,560.0,58928
+167,SHP-0167,2026-09-12,Great Lakes Energy Ltd,Livingstone,Jet A-1,Sesheke,Western,28000.0,145,145.0,15859
+171,SHP-0171,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,34000.0,560,560.0,88380
+302,SHP-0302,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,64157
+132,SHP-0132,2026-09-13,Great Lakes Energy Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,27230
+145,SHP-0145,2026-09-13,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,38000.0,420,420.0,70422
+284,SHP-0284,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,28000.0,345,345.0,41394
+348,SHP-0348,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Mongu,Western,38000.0,560,560.0,96883
+116,SHP-0116,2026-09-14,ZamFuel Trading Ltd,Livingstone,Jet A-1,Choma,Southern,32000.0,200,200.0,26267
+55,SHP-0055,2026-09-15,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,36000.0,105,105.0,16932
+210,SHP-0210,2026-09-15,Copperbelt Fuels Ltd,Ndola,Diesel,Kitwe,Copperbelt,38000.0,65,65.0,10334
+390,SHP-0390,2026-09-15,Rift Petro Supplies Ltd,Livingstone,Diesel,Choma,Southern,38000.0,200,200.0,33212
+39,SHP-0039,2026-09-16,Great Lakes Energy Ltd,Lusaka,Diesel,Kitwe,Copperbelt,28000.0,345,345.0,41306
+51,SHP-0051,2026-09-16,ZamFuel Trading Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,45476
+57,SHP-0057,2026-09-16,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Petauke,Eastern,34000.0,420,420.0,55656
+221,SHP-0221,2026-09-16,Great Lakes Energy Ltd,Lusaka,Kerosene,Mongu,Western,30000.0,560,560.0,73554
+304,SHP-0304,2026-09-16,Zambezi Oil Distributors Ltd,Ndola,Kerosene,Kitwe,Copperbelt,32000.0,65,65.0,9086
+112,SHP-0112,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,24000.0,345,345.0,39232
+240,SHP-0240,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65663
+255,SHP-0255,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,38000.0,345,345.0,53894
+273,SHP-0273,2026-09-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Choma,Southern,28000.0,320,320.0,37825
+82,SHP-0082,2026-09-18,ZamFuel Trading Ltd,Lusaka,Diesel,Solwezi,North-Western,28000.0,575,575.0,71329
+158,SHP-0158,2026-09-18,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,32000.0,215,215.0,28147
+201,SHP-0201,2026-09-18,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,38000.0,95,95.0,15257
+252,SHP-0252,2026-09-19,Zambezi Oil Distributors Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,28000.0,40,40.0,4996
+278,SHP-0278,2026-09-19,Copperbelt Fuels Ltd,Ndola,Diesel,Kitwe,Copperbelt,38000.0,65,65.0,11043
+310,SHP-0310,2026-09-19,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,61676
+356,SHP-0356,2026-09-19,ZamFuel Trading Ltd,Ndola,Petrol,Kitwe,Copperbelt,38000.0,65,65.0,10555
+397,SHP-0397,2026-09-19,ZamFuel Trading Ltd,Livingstone,Petrol,Sesheke,Western,28000.0,145,145.0,16422
+52,SHP-0052,2026-09-20,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,21434
+98,SHP-0098,2026-09-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Choma,Southern,36000.0,320,320.0,50623
+357,SHP-0357,2026-09-20,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,38000.0,95,95.0,13568
+46,SHP-0046,2026-09-21,Great Lakes Energy Ltd,Kabwe,Kerosene,Serenje,Central,32000.0,175,175.0,24535
+293,SHP-0293,2026-09-22,ZamFuel Trading Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,29962
+378,SHP-0378,2026-09-22,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,75515
+385,SHP-0385,2026-09-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,69030
+224,SHP-0224,2026-09-23,Copperbelt Fuels Ltd,Kasama,Diesel,Mbala,Northern,28000.0,90,90.0,11608
+225,SHP-0225,2026-09-23,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,64826
+233,SHP-0233,2026-09-23,ZamFuel Trading Ltd,Kasama,Diesel,Mbala,Northern,34000.0,90,90.0,13775
+396,SHP-0396,2026-09-23,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,28000.0,420,420.0,50666
+13,SHP-0013,2026-09-24,ZamFuel Trading Ltd,Ndola,Jet A-1,Solwezi,North-Western,28000.0,215,215.0,28437
+93,SHP-0093,2026-09-24,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,73643
+100,SHP-0100,2026-09-24,Rift Petro Supplies Ltd,Kasama,Diesel,Mbala,Northern,28000.0,90,90.0,11431
+133,SHP-0133,2026-09-24,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8267
+170,SHP-0170,2026-09-24,Rift Petro Supplies Ltd,Kasama,Petrol,Mbala,Northern,36000.0,90,90.0,14688
+172,SHP-0172,2026-09-24,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kitwe,Copperbelt,24000.0,65,65.0,7387
+212,SHP-0212,2026-09-24,Rift Petro Supplies Ltd,Ndola,Diesel,Chingola,Copperbelt,34000.0,60,60.0,9670
+275,SHP-0275,2026-09-24,Rift Petro Supplies Ltd,Ndola,Kerosene,Kasumbalesa,Copperbelt,34000.0,105,105.0,17827
+333,SHP-0333,2026-09-24,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,18986
+58,SHP-0058,2026-09-25,Copperbelt Fuels Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,11242
+220,SHP-0220,2026-09-25,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,36000.0,455,455.0,63145
+231,SHP-0231,2026-09-25,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,84386
+249,SHP-0249,2026-09-25,Great Lakes Energy Ltd,Lusaka,Kerosene,Mansa,Luapula,28000.0,455,455.0,55903
+295,SHP-0295,2026-09-25,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Choma,Southern,40000.0,200,200.0,34884
+313,SHP-0313,2026-09-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Kitwe,Copperbelt,24000.0,345,345.0,34279
+391,SHP-0391,2026-09-25,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,24000.0,215,215.0,20454
+128,SHP-0128,2026-09-26,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Livingstone,Southern,30000.0,485,485.0,67676
+143,SHP-0143,2026-09-26,Zambezi Oil Distributors Ltd,Kasama,Petrol,Mpika,Muchinga,38000.0,190,190.0,29631
+344,SHP-0344,2026-09-26,ZamFuel Trading Ltd,Ndola,Kerosene,Mufulira,Copperbelt,34000.0,45,45.0,7568
+113,SHP-0113,2026-09-27,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,32000.0,365,365.0,52947
+268,SHP-0268,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Ndola,Copperbelt,36000.0,370,370.0,66284
+270,SHP-0270,2026-09-27,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,24000.0,130,130.0,14799
+277,SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Chipata,Eastern,24000.0,365,365.0,46561
+331,SHP-0331,2026-09-27,Copperbelt Fuels Ltd,Ndola,Jet A-1,Kapiri Mposhi,Central,30000.0,150,150.0,18375
+370,SHP-0370,2026-09-27,Rift Petro Supplies Ltd,Kitwe,Petrol,Chingola,Copperbelt,34000.0,65,65.0,10085
+142,SHP-0142,2026-09-28,Rift Petro Supplies Ltd,Lusaka,Kerosene,Petauke,Eastern,40000.0,420,420.0,72496
+179,SHP-0179,2026-09-28,Zambezi Oil Distributors Ltd,Kitwe,Diesel,Chingola,Copperbelt,30000.0,65,65.0,8886
+189,SHP-0189,2026-09-28,ZamFuel Trading Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,26693
+199,SHP-0199,2026-09-28,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,58964
+211,SHP-0211,2026-09-28,Rift Petro Supplies Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,30000.0,105,105.0,14981
+350,SHP-0350,2026-09-28,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Choma,Southern,24000.0,320,320.0,34346
+155,SHP-0155,2026-09-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,66738
+253,SHP-0253,2026-09-29,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,38000.0,420,420.0,75972
+290,SHP-0290,2026-09-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Livingstone,Southern,32000.0,485,485.0,65961
+120,SHP-0120,2026-09-30,Zambezi Oil Distributors Ltd,Ndola,Diesel,Mufulira,Copperbelt,32000.0,45,45.0,7525
+217,SHP-0217,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,75961
+355,SHP-0355,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Petauke,Eastern,24000.0,420,420.0,41832
+368,SHP-0368,2026-09-30,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,30000.0,215,215.0,27317

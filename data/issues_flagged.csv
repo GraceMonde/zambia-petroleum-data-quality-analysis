@@ -1,56 +1,56 @@
-shipment_id,shipment_date,company,route,product,issue,severity,detail,volume_litres,claimed_distance_km,reference_distance_km,transport_cost
-SHP-0003,2026-09-07,Great Lakes Energy Ltd,Livingstone -> Sesheke,Kerosene,Distance discrepancy,High,claimed 193 km vs reference 145 km (difference 48 km),40000.0,193.0,145,22271
-SHP-0006,2026-09-15,Zambezi Oil Distributors Ltd,Kasama -> Mbala,Petrol,Distance discrepancy,High,claimed 47 km vs reference 90 km (difference 43 km),40000.0,47.0,90,14707
-SHP-0029,2026-09-08,ZamFuel Trading Ltd,Lusaka -> Livingstone,Kerosene,Distance discrepancy,High,claimed 449 km vs reference 485 km (difference 36 km),36000.0,449.0,485,78904
-SHP-0049,2026-09-10,ZamFuel Trading Ltd,Ndola -> Solwezi,Petrol,Distance discrepancy,High,claimed 140 km vs reference 215 km (difference 75 km),30000.0,140.0,215,28640
-SHP-0096,2026-07-19,Rift Petro Supplies Ltd,Ndola -> Mufulira,Kerosene,Distance discrepancy,High,claimed 102 km vs reference 45 km (difference 57 km),34000.0,102.0,45,6927
-SHP-0101,2026-09-03,Great Lakes Energy Ltd,Kitwe -> Kalulushi,Diesel,Distance discrepancy,High,claimed 125 km vs reference 40 km (difference 85 km),34000.0,125.0,40,5980
-SHP-0104,2026-07-10,Rift Petro Supplies Ltd,Kasama -> Mpika,Diesel,Distance discrepancy,High,claimed 217 km vs reference 190 km (difference 27 km),34000.0,217.0,190,27568
-SHP-0108,2026-08-27,Zambezi Oil Distributors Ltd,Lusaka -> Mongu,Petrol,Distance discrepancy,High,claimed 589 km vs reference 560 km (difference 29 km),40000.0,589.0,560,93240
-SHP-0129,2026-07-08,Great Lakes Energy Ltd,Lusaka -> Choma,Diesel,Distance discrepancy,High,claimed 269 km vs reference 320 km (difference 51 km),28000.0,269.0,320,35217
-SHP-0136,2026-09-29,ZamFuel Trading Ltd,Lusaka -> Kabwe,Petrol,Distance discrepancy,High,claimed 160 km vs reference 130 km (difference 30 km),28000.0,160.0,130,16635
-SHP-0207,2026-08-18,Zambezi Oil Distributors Ltd,Lusaka -> Livingstone,Jet A-1,Distance discrepancy,High,claimed 443 km vs reference 485 km (difference 42 km),34000.0,443.0,485,78192
-SHP-0251,2026-09-20,Copperbelt Fuels Ltd,Ndola -> Mufulira,Diesel,Distance discrepancy,High,claimed 5 km vs reference 45 km (difference 40 km),38000.0,5.0,45,8249
-SHP-0272,2026-09-17,Rift Petro Supplies Ltd,Lusaka -> Ndola,Diesel,Distance discrepancy,High,claimed 332 km vs reference 370 km (difference 38 km),32000.0,332.0,370,59978
-SHP-0301,2026-09-20,ZamFuel Trading Ltd,Ndola -> Kapiri Mposhi,Petrol,Distance discrepancy,High,claimed 112 km vs reference 150 km (difference 38 km),30000.0,112.0,150,17951
-SHP-0326,2026-08-26,ZamFuel Trading Ltd,Ndola -> Mufulira,Diesel,Distance discrepancy,High,claimed 5 km vs reference 45 km (difference 40 km),40000.0,5.0,45,8808
-SHP-0367,2026-08-03,ZamFuel Trading Ltd,Ndola -> Kapiri Mposhi,Kerosene,Distance discrepancy,High,claimed 93 km vs reference 150 km (difference 57 km),36000.0,93.0,150,20730
-SHP-0384,2026-09-16,Rift Petro Supplies Ltd,Lusaka -> Petauke,Petrol,Distance discrepancy,High,claimed 483 km vs reference 420 km (difference 63 km),24000.0,483.0,420,46459
-SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola -> Solwezi,Diesel,Duplicate record,Medium,Identical to SHP-0040,40000.0,215.0,215,39785
-SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola -> Kitwe,Kerosene,Duplicate record,Medium,Identical to SHP-0063,38000.0,65.0,65,10411
-SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka -> Chipata,Petrol,Duplicate record,Medium,Identical to SHP-0097,36000.0,365.0,365,63480
-SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama -> Serenje,Diesel,Duplicate record,Medium,Identical to SHP-0178,40000.0,215.0,215,38667
-SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kitwe -> Chingola,Diesel,Duplicate record,Medium,Identical to SHP-0235,24000.0,65.0,65,6713
-SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka -> Chipata,Diesel,Duplicate record,Medium,Identical to SHP-0277,24000.0,365.0,365,46561
-SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola -> Mufulira,Petrol,Duplicate record,Medium,Identical to SHP-0336,24000.0,45.0,45,5418
-SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola -> Kasumbalesa,Petrol,Duplicate record,Medium,Identical to SHP-0380,28000.0,105.0,105,14560
-SHP-0017,2026-08-26,ZamFuel Trading Ltd,Ndola -> Kitwe,Kerosene,High-cost anomaly,Medium,0.00888 ZMW per litre-km exceeds threshold of 0.00642,36000.0,65.0,65,20778
-SHP-0043,2026-07-01,Great Lakes Energy Ltd,Ndola -> Kasumbalesa,Diesel,High-cost anomaly,Medium,0.01122 ZMW per litre-km exceeds threshold of 0.00642,38000.0,105.0,105,44786
-SHP-0131,2026-09-23,Great Lakes Energy Ltd,Lusaka -> Ndola,Petrol,High-cost anomaly,Medium,0.00840 ZMW per litre-km exceeds threshold of 0.00642,28000.0,370.0,370,87015
-SHP-0162,2026-08-02,ZamFuel Trading Ltd,Kitwe -> Kalulushi,Diesel,High-cost anomaly,Medium,0.00918 ZMW per litre-km exceeds threshold of 0.00642,32000.0,40.0,40,11749
-SHP-0192,2026-08-04,Copperbelt Fuels Ltd,Lusaka -> Kitwe,Diesel,High-cost anomaly,Medium,0.00934 ZMW per litre-km exceeds threshold of 0.00642,36000.0,345.0,345,116031
-SHP-0250,2026-07-31,ZamFuel Trading Ltd,Lusaka -> Solwezi,Petrol,High-cost anomaly,Medium,0.01027 ZMW per litre-km exceeds threshold of 0.00642,36000.0,575.0,575,212552
-SHP-0283,2026-08-05,ZamFuel Trading Ltd,Lusaka -> Kitwe,Jet A-1,High-cost anomaly,Medium,0.00814 ZMW per litre-km exceeds threshold of 0.00642,30000.0,345.0,345,84267
-SHP-0379,2026-08-05,Great Lakes Energy Ltd,Lusaka -> Mansa,Petrol,High-cost anomaly,Medium,0.00862 ZMW per litre-km exceeds threshold of 0.00642,28000.0,455.0,455,109771
-SHP-0382,2026-09-25,Mosi Petroleum Merchants Ltd,Kitwe -> Chingola,Petrol,High-cost anomaly,Medium,0.00837 ZMW per litre-km exceeds threshold of 0.00642,28000.0,65.0,65,15237
-SHP-0056,2026-08-13,ZamFuel Trading Ltd,Ndola -> Kapiri Mposhi,Diesel,Invalid volume,High,volume_litres is empty or non-numeric,,150.0,150,15549
-SHP-0183,2026-07-27,ZamFuel Trading Ltd,Lusaka -> Petauke,Diesel,Invalid volume,High,volume_litres is empty or non-numeric,,420.0,420,67497
-SHP-0214,2026-08-24,Mosi Petroleum Merchants Ltd,Kabwe -> Mkushi,Jet A-1,Invalid volume,High,volume_litres = 0,0.0,95.0,95,13391
-SHP-0330,2026-08-12,Rift Petro Supplies Ltd,Lusaka -> Mongu,Jet A-1,Invalid volume,High,"volume_litres = -5,000",-5000.0,560.0,560,77348
-SHP-0071,2026-09-21,,Lusaka -> Kitwe,Diesel,Missing company/depot,High,company not supplied,30000.0,345.0,345,44686
-SHP-0074,2026-07-20,ZamFuel Trading Ltd, -> Kitwe,Petrol,Missing company/depot,High,depot not supplied,28000.0,345.0,345,41176
-SHP-0081,2026-08-29,,Ndola -> Solwezi,Diesel,Missing company/depot,High,company not supplied,24000.0,215.0,215,22845
-SHP-0121,2026-08-10,Zambezi Oil Distributors Ltd, -> Chingola,Petrol,Missing company/depot,High,depot not supplied,30000.0,60.0,60,8402
-SHP-0197,2026-08-16,Great Lakes Energy Ltd, -> Chingola,Diesel,Missing company/depot,High,depot not supplied,30000.0,60.0,60,7549
-SHP-0202,2026-07-20,,Kasama -> Mpika,Diesel,Missing company/depot,High,company not supplied,36000.0,190.0,190,25743
-SHP-0024,2026-09-15,ZamFuel Trading Ltd,Kitwe -> Kalulushi,Diesel,Missing distance,High,claimed_distance_km is empty or non-numeric,40000.0,,40,7092
-SHP-0062,2026-07-20,ZamFuel Trading Ltd,Lusaka -> Petauke,Diesel,Missing distance,High,claimed_distance_km is empty or non-numeric,40000.0,,420,78821
-SHP-0099,2026-07-03,Copperbelt Fuels Ltd,Lusaka -> Livingstone,Petrol,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,485,83454
-SHP-0124,2026-08-06,Rift Petro Supplies Ltd,Lusaka -> Mansa,Diesel,Missing distance,High,claimed_distance_km is empty or non-numeric,34000.0,,455,65432
-SHP-0150,2026-07-12,Copperbelt Fuels Ltd,Lusaka -> Kabwe,Petrol,Missing distance,High,claimed_distance_km is empty or non-numeric,34000.0,,130,22710
-SHP-0188,2026-07-30,Copperbelt Fuels Ltd,Lusaka -> Choma,Petrol,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,320,54638
-SHP-0223,2026-07-10,Mosi Petroleum Merchants Ltd,Ndola -> Solwezi,Jet A-1,Missing distance,High,claimed_distance_km is empty or non-numeric,32000.0,,215,30183
-SHP-0227,2026-09-29,Great Lakes Energy Ltd,Lusaka -> Kabwe,Jet A-1,Missing distance,High,claimed_distance_km is empty or non-numeric,24000.0,,130,15539
-SHP-0335,2026-08-11,ZamFuel Trading Ltd,Lusaka -> Livingstone,Jet A-1,Missing distance,High,claimed_distance_km is empty or non-numeric,36000.0,,485,77206
-SHP-0347,2026-07-21,Copperbelt Fuels Ltd,Kitwe -> Chingola,Diesel,Missing distance,High,claimed_distance_km is empty or non-numeric,36000.0,,65,10769
-SHP-0398,2026-08-22,ZamFuel Trading Ltd,Lusaka -> Mongu,Diesel,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,560,89851
+record_id,shipment_id,shipment_date,company,route,product,issue_code,issue,severity,detail,volume_litres,claimed_distance_km,reference_distance_km,transport_cost
+3,SHP-0003,2026-09-07,Great Lakes Energy Ltd,Kitwe -> Kalulushi,Kerosene,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 88 km vs reference 40 km (difference 48 km),40000.0,88.0,40,6874
+6,SHP-0006,2026-09-15,Zambezi Oil Distributors Ltd,Kasama -> Serenje,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 172 km vs reference 215 km (difference 43 km),40000.0,172.0,215,37947
+29,SHP-0029,2026-09-08,ZamFuel Trading Ltd,Lusaka -> Ndola,Kerosene,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 334 km vs reference 370 km (difference 36 km),36000.0,334.0,370,61955
+49,SHP-0049,2026-09-10,ZamFuel Trading Ltd,Ndola -> Kasumbalesa,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 30 km vs reference 105 km (difference 75 km),30000.0,30.0,105,15446
+96,SHP-0096,2026-07-19,Rift Petro Supplies Ltd,Ndola -> Solwezi,Kerosene,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 272 km vs reference 215 km (difference 57 km),34000.0,272.0,215,30365
+101,SHP-0101,2026-09-03,Great Lakes Energy Ltd,Kitwe -> Chingola,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 150 km vs reference 65 km (difference 85 km),34000.0,150.0,65,10344
+104,SHP-0104,2026-07-10,Rift Petro Supplies Ltd,Kasama -> Mbala,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 117 km vs reference 90 km (difference 27 km),34000.0,117.0,90,14037
+108,SHP-0108,2026-08-27,Zambezi Oil Distributors Ltd,Lusaka -> Mongu,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 589 km vs reference 560 km (difference 29 km),40000.0,589.0,560,93240
+129,SHP-0129,2026-07-08,Great Lakes Energy Ltd,Lusaka -> Livingstone,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 434 km vs reference 485 km (difference 51 km),28000.0,434.0,485,60307
+136,SHP-0136,2026-09-29,ZamFuel Trading Ltd,Lusaka -> Kabwe,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 160 km vs reference 130 km (difference 30 km),28000.0,160.0,130,16635
+207,SHP-0207,2026-08-18,Zambezi Oil Distributors Ltd,Lusaka -> Livingstone,Jet A-1,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 443 km vs reference 485 km (difference 42 km),34000.0,443.0,485,78192
+251,SHP-0251,2026-09-20,Copperbelt Fuels Ltd,Ndola -> Solwezi,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 125 km vs reference 215 km (difference 90 km),38000.0,125.0,215,36164
+272,SHP-0272,2026-09-17,Rift Petro Supplies Ltd,Lusaka -> Ndola,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 332 km vs reference 370 km (difference 38 km),32000.0,332.0,370,59978
+301,SHP-0301,2026-09-20,ZamFuel Trading Ltd,Kabwe -> Mkushi,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 57 km vs reference 95 km (difference 38 km),30000.0,57.0,95,10805
+326,SHP-0326,2026-08-26,ZamFuel Trading Ltd,Ndola -> Solwezi,Diesel,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 153 km vs reference 215 km (difference 62 km),40000.0,153.0,215,38613
+367,SHP-0367,2026-08-03,ZamFuel Trading Ltd,Kabwe -> Mkushi,Kerosene,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 38 km vs reference 95 km (difference 57 km),36000.0,38.0,95,12478
+384,SHP-0384,2026-09-16,Rift Petro Supplies Ltd,Lusaka -> Petauke,Petrol,DISTANCE_MISMATCH,Distance discrepancy,High,claimed 483 km vs reference 420 km (difference 63 km),24000.0,483.0,420,46459
+404,SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola -> Solwezi,Diesel,DUPLICATE,Duplicate record,Medium,Identical to SHP-0040 (record 40),40000.0,215.0,215,39785
+406,SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola -> Chingola,Kerosene,DUPLICATE,Duplicate record,Medium,Identical to SHP-0063 (record 63),38000.0,60.0,60,10792
+402,SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka -> Mansa,Petrol,DUPLICATE,Duplicate record,Medium,Identical to SHP-0097 (record 97),36000.0,455.0,455,67976
+403,SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama -> Serenje,Diesel,DUPLICATE,Duplicate record,Medium,Identical to SHP-0178 (record 178),40000.0,215.0,215,38667
+407,SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kasama -> Mpika,Diesel,DUPLICATE,Duplicate record,Medium,Identical to SHP-0235 (record 235),24000.0,190.0,190,16681
+408,SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka -> Chipata,Diesel,DUPLICATE,Duplicate record,Medium,Identical to SHP-0277 (record 277),24000.0,365.0,365,46561
+401,SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola -> Mufulira,Petrol,DUPLICATE,Duplicate record,Medium,Identical to SHP-0336 (record 336),24000.0,45.0,45,5418
+405,SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola -> Kapiri Mposhi,Petrol,DUPLICATE,Duplicate record,Medium,Identical to SHP-0380 (record 380),28000.0,150.0,150,18124
+17,SHP-0017,2026-08-26,ZamFuel Trading Ltd,Ndola -> Chingola,Kerosene,HIGH_COST,High-cost anomaly,Medium,0.00997 ZMW per litre-km exceeds threshold of 0.00639,36000.0,60.0,60,21538
+43,SHP-0043,2026-07-01,Great Lakes Energy Ltd,Ndola -> Kasumbalesa,Diesel,HIGH_COST,High-cost anomaly,Medium,0.01122 ZMW per litre-km exceeds threshold of 0.00639,38000.0,105.0,105,44786
+131,SHP-0131,2026-09-23,Great Lakes Energy Ltd,Lusaka -> Ndola,Petrol,HIGH_COST,High-cost anomaly,Medium,0.00840 ZMW per litre-km exceeds threshold of 0.00639,28000.0,370.0,370,87015
+162,SHP-0162,2026-08-02,ZamFuel Trading Ltd,Kitwe -> Chingola,Diesel,HIGH_COST,High-cost anomaly,Medium,0.00977 ZMW per litre-km exceeds threshold of 0.00639,32000.0,65.0,65,20323
+192,SHP-0192,2026-08-04,Copperbelt Fuels Ltd,Lusaka -> Kitwe,Diesel,HIGH_COST,High-cost anomaly,Medium,0.00934 ZMW per litre-km exceeds threshold of 0.00639,36000.0,345.0,345,116031
+250,SHP-0250,2026-07-31,ZamFuel Trading Ltd,Lusaka -> Solwezi,Petrol,HIGH_COST,High-cost anomaly,Medium,0.01027 ZMW per litre-km exceeds threshold of 0.00639,36000.0,575.0,575,212552
+283,SHP-0283,2026-08-05,ZamFuel Trading Ltd,Lusaka -> Kitwe,Jet A-1,HIGH_COST,High-cost anomaly,Medium,0.00814 ZMW per litre-km exceeds threshold of 0.00639,30000.0,345.0,345,84267
+379,SHP-0379,2026-08-05,Great Lakes Energy Ltd,Lusaka -> Mansa,Petrol,HIGH_COST,High-cost anomaly,Medium,0.00862 ZMW per litre-km exceeds threshold of 0.00639,28000.0,455.0,455,109771
+382,SHP-0382,2026-09-25,Mosi Petroleum Merchants Ltd,Kasama -> Mpika,Petrol,HIGH_COST,High-cost anomaly,Medium,0.00712 ZMW per litre-km exceeds threshold of 0.00639,28000.0,190.0,190,37865
+56,SHP-0056,2026-08-13,ZamFuel Trading Ltd,Kabwe -> Mkushi,Diesel,INVALID_VOLUME,Invalid volume,High,volume_litres is empty or non-numeric,,95.0,95,9359
+183,SHP-0183,2026-07-27,ZamFuel Trading Ltd,Ndola -> Kitwe,Diesel,INVALID_VOLUME,Invalid volume,High,volume_litres is empty or non-numeric,,65.0,65,10023
+214,SHP-0214,2026-08-24,Mosi Petroleum Merchants Ltd,Kabwe -> Serenje,Jet A-1,INVALID_VOLUME,Invalid volume,High,volume_litres = 0,0.0,175.0,175,28160
+330,SHP-0330,2026-08-12,Rift Petro Supplies Ltd,Lusaka -> Mongu,Jet A-1,INVALID_VOLUME,Invalid volume,High,"volume_litres = -5,000",-5000.0,560.0,560,77348
+71,SHP-0071,2026-09-21,,Lusaka -> Kitwe,Diesel,MISSING_DIMENSION,Missing company/depot,High,company not supplied,30000.0,345.0,345,44686
+74,SHP-0074,2026-07-20,ZamFuel Trading Ltd, -> Kitwe,Petrol,MISSING_DIMENSION,Missing company/depot,High,depot not supplied,28000.0,345.0,345,41176
+81,SHP-0081,2026-08-29,,Ndola -> Solwezi,Diesel,MISSING_DIMENSION,Missing company/depot,High,company not supplied,24000.0,215.0,215,22845
+121,SHP-0121,2026-08-10,Zambezi Oil Distributors Ltd, -> Chingola,Petrol,MISSING_DIMENSION,Missing company/depot,High,depot not supplied,30000.0,60.0,60,8402
+197,SHP-0197,2026-08-16,Great Lakes Energy Ltd, -> Mufulira,Diesel,MISSING_DIMENSION,Missing company/depot,High,depot not supplied,30000.0,45.0,45,5657
+202,SHP-0202,2026-07-20,,Kasama -> Mbala,Diesel,MISSING_DIMENSION,Missing company/depot,High,company not supplied,36000.0,90.0,90,13107
+24,SHP-0024,2026-09-15,ZamFuel Trading Ltd,Kitwe -> Chingola,Diesel,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,40000.0,,65,12266
+62,SHP-0062,2026-07-20,ZamFuel Trading Ltd,Lusaka -> Petauke,Diesel,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,40000.0,,420,78821
+99,SHP-0099,2026-07-03,Copperbelt Fuels Ltd,Lusaka -> Livingstone,Petrol,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,485,83454
+124,SHP-0124,2026-08-06,Rift Petro Supplies Ltd,Lusaka -> Solwezi,Diesel,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,34000.0,,575,85896
+150,SHP-0150,2026-07-12,Copperbelt Fuels Ltd,Lusaka -> Kabwe,Petrol,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,34000.0,,130,22710
+188,SHP-0188,2026-07-30,Copperbelt Fuels Ltd,Lusaka -> Choma,Petrol,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,320,54638
+223,SHP-0223,2026-07-10,Mosi Petroleum Merchants Ltd,Ndola -> Solwezi,Jet A-1,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,32000.0,,215,30183
+227,SHP-0227,2026-09-29,Great Lakes Energy Ltd,Lusaka -> Kabwe,Jet A-1,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,24000.0,,130,15539
+335,SHP-0335,2026-08-11,ZamFuel Trading Ltd,Lusaka -> Livingstone,Jet A-1,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,36000.0,,485,77206
+347,SHP-0347,2026-07-21,Copperbelt Fuels Ltd,Kasama -> Mpika,Diesel,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,36000.0,,190,26762
+398,SHP-0398,2026-08-22,ZamFuel Trading Ltd,Lusaka -> Mongu,Diesel,MISSING_DISTANCE,Missing distance,High,claimed_distance_km is empty or non-numeric,38000.0,,560,89851

@@ -1,0 +1,409 @@
+record_id,shipment_id,shipment_date,company,depot,product,destination,province,volume_litres,reference_distance_km,claimed_distance_km,transport_cost,issues,quality_status
+1,SHP-0001,2026-07-01,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,38000.0,95,95.0,12761,,clean
+42,SHP-0042,2026-07-01,ZamFuel Trading Ltd,Livingstone,Kerosene,Sesheke,Western,36000.0,145,145.0,22758,,clean
+43,SHP-0043,2026-07-01,Great Lakes Energy Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,38000.0,105,105.0,44786,HIGH_COST,flagged
+228,SHP-0228,2026-07-01,ZamFuel Trading Ltd,Ndola,Petrol,Chingola,Copperbelt,36000.0,60,60.0,10312,,clean
+246,SHP-0246,2026-07-01,Zambezi Oil Distributors Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,40000.0,40,40.0,7251,,clean
+389,SHP-0389,2026-07-01,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,24000.0,485,485.0,50800,,clean
+10,SHP-0010,2026-07-03,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Solwezi,North-Western,28000.0,575,575.0,72936,,clean
+69,SHP-0069,2026-07-03,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,38000.0,130,130.0,23985,,clean
+99,SHP-0099,2026-07-03,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,38000.0,485,,83454,MISSING_DISTANCE,flagged
+159,SHP-0159,2026-07-03,Rift Petro Supplies Ltd,Ndola,Diesel,Kapiri Mposhi,Central,34000.0,150,150.0,22208,,clean
+236,SHP-0236,2026-07-03,ZamFuel Trading Ltd,Kabwe,Diesel,Serenje,Central,40000.0,175,175.0,33229,,clean
+312,SHP-0312,2026-07-03,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,38000.0,575,575.0,98987,,clean
+230,SHP-0230,2026-07-04,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88651,,clean
+328,SHP-0328,2026-07-04,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,40000.0,65,65.0,9445,,clean
+364,SHP-0364,2026-07-04,ZamFuel Trading Ltd,Lusaka,Petrol,Choma,Southern,30000.0,320,320.0,43721,,clean
+372,SHP-0372,2026-07-04,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,40000.0,560,560.0,90027,,clean
+12,SHP-0012,2026-07-05,Rift Petro Supplies Ltd,Kasama,Petrol,Mpika,Muchinga,30000.0,190,190.0,23586,,clean
+105,SHP-0105,2026-07-05,Rift Petro Supplies Ltd,Kabwe,Jet A-1,Mkushi,Central,36000.0,95,95.0,13329,,clean
+122,SHP-0122,2026-07-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Solwezi,North-Western,38000.0,215,215.0,36236,,clean
+218,SHP-0218,2026-07-05,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,62222,,clean
+380,SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kapiri Mposhi,Central,28000.0,150,150.0,18124,,clean
+405,SHP-0380,2026-07-05,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kapiri Mposhi,Central,28000.0,150,150.0,18124,DUPLICATE,flagged
+60,SHP-0060,2026-07-06,Rift Petro Supplies Ltd,Lusaka,Diesel,Livingstone,Southern,32000.0,485,485.0,72792,,clean
+88,SHP-0088,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,24000.0,420,420.0,45685,,clean
+125,SHP-0125,2026-07-06,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,19846,,clean
+257,SHP-0257,2026-07-06,Zambezi Oil Distributors Ltd,Livingstone,Kerosene,Kazungula,Southern,38000.0,80,80.0,15849,,clean
+388,SHP-0388,2026-07-06,Copperbelt Fuels Ltd,Kasama,Jet A-1,Mbala,Northern,32000.0,90,90.0,13732,,clean
+40,SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,40000.0,215,215.0,39785,,clean
+404,SHP-0040,2026-07-07,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,40000.0,215,215.0,39785,DUPLICATE,flagged
+191,SHP-0191,2026-07-07,Mosi Petroleum Merchants Ltd,Kasama,Diesel,Mpika,Muchinga,32000.0,190,190.0,23187,,clean
+305,SHP-0305,2026-07-07,Copperbelt Fuels Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,36000.0,40,40.0,6841,,clean
+311,SHP-0311,2026-07-07,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,34000.0,420,420.0,58388,,clean
+395,SHP-0395,2026-07-07,ZamFuel Trading Ltd,Lusaka,Kerosene,Kabwe,Central,36000.0,130,130.0,23190,,clean
+79,SHP-0079,2026-07-08,Rift Petro Supplies Ltd,Ndola,Diesel,Chingola,Copperbelt,38000.0,60,60.0,11537,,clean
+129,SHP-0129,2026-07-08,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,28000.0,485,434.0,60307,DISTANCE_MISMATCH,flagged
+235,SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kasama,Diesel,Mpika,Muchinga,24000.0,190,190.0,16681,,clean
+407,SHP-0235,2026-07-08,ZamFuel Trading Ltd,Kasama,Diesel,Mpika,Muchinga,24000.0,190,190.0,16681,DUPLICATE,flagged
+269,SHP-0269,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65032,,clean
+352,SHP-0352,2026-07-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Ndola,Copperbelt,28000.0,370,370.0,46980,,clean
+53,SHP-0053,2026-07-09,Great Lakes Energy Ltd,Kabwe,Kerosene,Serenje,Central,24000.0,175,175.0,19207,,clean
+194,SHP-0194,2026-07-09,Rift Petro Supplies Ltd,Livingstone,Petrol,Sesheke,Western,38000.0,145,145.0,23880,,clean
+342,SHP-0342,2026-07-09,ZamFuel Trading Ltd,Kasama,Kerosene,Mbala,Northern,32000.0,90,90.0,12014,,clean
+23,SHP-0023,2026-07-10,ZamFuel Trading Ltd,Kasama,Petrol,Mbala,Northern,28000.0,90,90.0,10955,,clean
+72,SHP-0072,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Petrol,Solwezi,North-Western,40000.0,575,575.0,92924,,clean
+75,SHP-0075,2026-07-10,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,47454,,clean
+102,SHP-0102,2026-07-10,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,19531,,clean
+104,SHP-0104,2026-07-10,Rift Petro Supplies Ltd,Kasama,Diesel,Mbala,Northern,34000.0,90,117.0,14037,DISTANCE_MISMATCH,flagged
+115,SHP-0115,2026-07-10,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,53789,,clean
+156,SHP-0156,2026-07-10,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,40000.0,215,215.0,40435,,clean
+215,SHP-0215,2026-07-10,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20183,,clean
+223,SHP-0223,2026-07-10,Mosi Petroleum Merchants Ltd,Ndola,Jet A-1,Solwezi,North-Western,32000.0,215,,30183,MISSING_DISTANCE,flagged
+282,SHP-0282,2026-07-10,ZamFuel Trading Ltd,Lusaka,Kerosene,Ndola,Copperbelt,38000.0,370,370.0,69988,,clean
+106,SHP-0106,2026-07-11,Great Lakes Energy Ltd,Ndola,Diesel,Kapiri Mposhi,Central,38000.0,150,150.0,22126,,clean
+281,SHP-0281,2026-07-11,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,20226,,clean
+300,SHP-0300,2026-07-11,Copperbelt Fuels Ltd,Ndola,Petrol,Solwezi,North-Western,30000.0,215,215.0,28617,,clean
+323,SHP-0323,2026-07-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,32000.0,365,365.0,56623,,clean
+386,SHP-0386,2026-07-11,Copperbelt Fuels Ltd,Kasama,Kerosene,Serenje,Central,40000.0,215,215.0,40199,,clean
+110,SHP-0110,2026-07-12,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,30000.0,65,65.0,9572,,clean
+150,SHP-0150,2026-07-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Kabwe,Central,34000.0,130,,22710,MISSING_DISTANCE,flagged
+297,SHP-0297,2026-07-12,Great Lakes Energy Ltd,Kasama,Petrol,Serenje,Central,28000.0,215,215.0,27925,,clean
+299,SHP-0299,2026-07-12,Rift Petro Supplies Ltd,Kabwe,Kerosene,Mkushi,Central,28000.0,95,95.0,9582,,clean
+31,SHP-0031,2026-07-13,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Kapiri Mposhi,Central,40000.0,150,150.0,28962,,clean
+80,SHP-0080,2026-07-13,Copperbelt Fuels Ltd,Kabwe,Diesel,Serenje,Central,40000.0,175,175.0,30884,,clean
+327,SHP-0327,2026-07-13,ZamFuel Trading Ltd,Kabwe,Diesel,Serenje,Central,38000.0,175,175.0,31237,,clean
+336,SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola,Petrol,Mufulira,Copperbelt,24000.0,45,45.0,5418,,clean
+401,SHP-0336,2026-07-13,Great Lakes Energy Ltd,Ndola,Petrol,Mufulira,Copperbelt,24000.0,45,45.0,5418,DUPLICATE,flagged
+361,SHP-0361,2026-07-13,Great Lakes Energy Ltd,Kasama,Petrol,Mpika,Muchinga,24000.0,190,190.0,17945,,clean
+119,SHP-0119,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,38000.0,575,575.0,97941,,clean
+239,SHP-0239,2026-07-14,Great Lakes Energy Ltd,Lusaka,Diesel,Kabwe,Central,30000.0,130,130.0,18319,,clean
+263,SHP-0263,2026-07-14,ZamFuel Trading Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,56871,,clean
+27,SHP-0027,2026-07-15,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,30000.0,420,420.0,55731,,clean
+33,SHP-0033,2026-07-15,Great Lakes Energy Ltd,Lusaka,Petrol,Chipata,Eastern,30000.0,365,365.0,55242,,clean
+260,SHP-0260,2026-07-15,Copperbelt Fuels Ltd,Ndola,Diesel,Mufulira,Copperbelt,30000.0,45,45.0,5786,,clean
+392,SHP-0392,2026-07-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,82560,,clean
+50,SHP-0050,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,71751,,clean
+134,SHP-0134,2026-07-16,Rift Petro Supplies Ltd,Lusaka,Diesel,Chipata,Eastern,32000.0,365,365.0,54105,,clean
+196,SHP-0196,2026-07-16,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,36000.0,370,370.0,64435,,clean
+320,SHP-0320,2026-07-16,Mosi Petroleum Merchants Ltd,Kasama,Kerosene,Mpika,Muchinga,38000.0,190,190.0,27809,,clean
+78,SHP-0078,2026-07-17,Rift Petro Supplies Ltd,Ndola,Petrol,Solwezi,North-Western,40000.0,215,215.0,41039,,clean
+83,SHP-0083,2026-07-17,Rift Petro Supplies Ltd,Livingstone,Jet A-1,Kazungula,Southern,34000.0,80,80.0,13775,,clean
+213,SHP-0213,2026-07-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41548,,clean
+66,SHP-0066,2026-07-18,Great Lakes Energy Ltd,Ndola,Kerosene,Chingola,Copperbelt,24000.0,60,60.0,7315,,clean
+154,SHP-0154,2026-07-18,Zambezi Oil Distributors Ltd,Ndola,Petrol,Chingola,Copperbelt,32000.0,60,60.0,9221,,clean
+274,SHP-0274,2026-07-18,Great Lakes Energy Ltd,Ndola,Jet A-1,Mufulira,Copperbelt,38000.0,45,45.0,7590,,clean
+338,SHP-0338,2026-07-18,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,21364,,clean
+341,SHP-0341,2026-07-18,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,32000.0,485,485.0,70481,,clean
+96,SHP-0096,2026-07-19,Rift Petro Supplies Ltd,Ndola,Kerosene,Solwezi,North-Western,34000.0,215,272.0,30365,DISTANCE_MISMATCH,flagged
+111,SHP-0111,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,24000.0,420,420.0,43639,,clean
+243,SHP-0243,2026-07-19,ZamFuel Trading Ltd,Lusaka,Diesel,Kitwe,Copperbelt,30000.0,345,345.0,41915,,clean
+345,SHP-0345,2026-07-19,Rift Petro Supplies Ltd,Kabwe,Diesel,Serenje,Central,38000.0,175,175.0,27785,,clean
+365,SHP-0365,2026-07-19,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Solwezi,North-Western,28000.0,215,215.0,26432,,clean
+373,SHP-0373,2026-07-19,Rift Petro Supplies Ltd,Lusaka,Petrol,Mansa,Luapula,32000.0,455,455.0,61203,,clean
+44,SHP-0044,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Chipata,Eastern,32000.0,365,365.0,61111,,clean
+62,SHP-0062,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,40000.0,420,,78821,MISSING_DISTANCE,flagged
+70,SHP-0070,2026-07-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,65734,,clean
+74,SHP-0074,2026-07-20,ZamFuel Trading Ltd,,Petrol,Kitwe,Copperbelt,28000.0,345,345.0,41176,MISSING_DIMENSION,flagged
+123,SHP-0123,2026-07-20,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,24000.0,320,320.0,33425,,clean
+153,SHP-0153,2026-07-20,ZamFuel Trading Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,87028,,clean
+202,SHP-0202,2026-07-20,,Kasama,Diesel,Mbala,Northern,36000.0,90,90.0,13107,MISSING_DIMENSION,flagged
+265,SHP-0265,2026-07-20,Copperbelt Fuels Ltd,Kitwe,Petrol,Chingola,Copperbelt,36000.0,65,65.0,10894,,clean
+334,SHP-0334,2026-07-20,Copperbelt Fuels Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,24000.0,40,40.0,4020,,clean
+303,SHP-0303,2026-07-21,ZamFuel Trading Ltd,Ndola,Kerosene,Kitwe,Copperbelt,24000.0,65,65.0,6117,,clean
+347,SHP-0347,2026-07-21,Copperbelt Fuels Ltd,Kasama,Diesel,Mpika,Muchinga,36000.0,190,,26762,MISSING_DISTANCE,flagged
+87,SHP-0087,2026-07-23,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,25449,,clean
+241,SHP-0241,2026-07-23,Great Lakes Energy Ltd,Livingstone,Petrol,Sesheke,Western,32000.0,145,145.0,19546,,clean
+267,SHP-0267,2026-07-23,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,89636,,clean
+287,SHP-0287,2026-07-23,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,28000.0,130,130.0,17333,,clean
+351,SHP-0351,2026-07-23,ZamFuel Trading Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,7718,,clean
+18,SHP-0018,2026-07-24,Great Lakes Energy Ltd,Lusaka,Diesel,Choma,Southern,38000.0,320,320.0,46764,,clean
+21,SHP-0021,2026-07-24,Rift Petro Supplies Ltd,Kabwe,Petrol,Mkushi,Central,34000.0,95,95.0,13262,,clean
+208,SHP-0208,2026-07-24,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,32000.0,105,105.0,16002,,clean
+30,SHP-0030,2026-07-25,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,28000.0,105,105.0,14593,,clean
+92,SHP-0092,2026-07-25,Rift Petro Supplies Ltd,Ndola,Jet A-1,Kasumbalesa,Copperbelt,34000.0,105,105.0,17576,,clean
+177,SHP-0177,2026-07-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,32000.0,575,575.0,78943,,clean
+258,SHP-0258,2026-07-25,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,58767,,clean
+19,SHP-0019,2026-07-27,ZamFuel Trading Ltd,Livingstone,Diesel,Sesheke,Western,28000.0,145,145.0,16141,,clean
+141,SHP-0141,2026-07-27,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,63868,,clean
+183,SHP-0183,2026-07-27,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,,65,65.0,10023,INVALID_VOLUME,flagged
+306,SHP-0306,2026-07-27,Rift Petro Supplies Ltd,Lusaka,Diesel,Petauke,Eastern,30000.0,420,420.0,53663,,clean
+387,SHP-0387,2026-07-27,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kapiri Mposhi,Central,38000.0,150,150.0,24140,,clean
+67,SHP-0067,2026-07-28,Rift Petro Supplies Ltd,Ndola,Kerosene,Chingola,Copperbelt,30000.0,60,60.0,8827,,clean
+308,SHP-0308,2026-07-28,Great Lakes Energy Ltd,Ndola,Petrol,Solwezi,North-Western,30000.0,215,215.0,25196,,clean
+376,SHP-0376,2026-07-28,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,74665,,clean
+34,SHP-0034,2026-07-29,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63466,,clean
+195,SHP-0195,2026-07-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,38000.0,370,370.0,70430,,clean
+381,SHP-0381,2026-07-29,ZamFuel Trading Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8119,,clean
+84,SHP-0084,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Ndola,Copperbelt,24000.0,370,370.0,41259,,clean
+126,SHP-0126,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,28000.0,420,420.0,46195,,clean
+137,SHP-0137,2026-07-30,Rift Petro Supplies Ltd,Kasama,Jet A-1,Mbala,Northern,38000.0,90,90.0,14534,,clean
+152,SHP-0152,2026-07-30,ZamFuel Trading Ltd,Kitwe,Petrol,Chingola,Copperbelt,34000.0,65,65.0,10529,,clean
+188,SHP-0188,2026-07-30,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,38000.0,320,,54638,MISSING_DISTANCE,flagged
+176,SHP-0176,2026-07-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Kabwe,Central,32000.0,130,130.0,19645,,clean
+237,SHP-0237,2026-07-31,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,38000.0,420,420.0,75064,,clean
+250,SHP-0250,2026-07-31,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,36000.0,575,575.0,212552,HIGH_COST,flagged
+61,SHP-0061,2026-08-01,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,28000.0,215,215.0,26200,,clean
+85,SHP-0085,2026-08-01,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,30000.0,130,130.0,19076,,clean
+91,SHP-0091,2026-08-01,Great Lakes Energy Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,52343,,clean
+190,SHP-0190,2026-08-01,ZamFuel Trading Ltd,Lusaka,Kerosene,Mongu,Western,32000.0,560,560.0,77767,,clean
+340,SHP-0340,2026-08-01,Copperbelt Fuels Ltd,Kasama,Diesel,Mpika,Muchinga,32000.0,190,190.0,23379,,clean
+25,SHP-0025,2026-08-02,Rift Petro Supplies Ltd,Kabwe,Kerosene,Mkushi,Central,34000.0,95,95.0,13120,,clean
+90,SHP-0090,2026-08-02,Rift Petro Supplies Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,47917,,clean
+162,SHP-0162,2026-08-02,ZamFuel Trading Ltd,Kitwe,Diesel,Chingola,Copperbelt,32000.0,65,65.0,20323,HIGH_COST,flagged
+185,SHP-0185,2026-08-02,Mosi Petroleum Merchants Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,13386,,clean
+41,SHP-0041,2026-08-03,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,71957,,clean
+86,SHP-0086,2026-08-03,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34131,,clean
+359,SHP-0359,2026-08-03,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,36000.0,420,420.0,65747,,clean
+363,SHP-0363,2026-08-03,ZamFuel Trading Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,60756,,clean
+367,SHP-0367,2026-08-03,ZamFuel Trading Ltd,Kabwe,Kerosene,Mkushi,Central,36000.0,95,38.0,12478,DISTANCE_MISMATCH,flagged
+7,SHP-0007,2026-08-04,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,30000.0,95,95.0,11313,,clean
+15,SHP-0015,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,28000.0,575,575.0,71126,,clean
+169,SHP-0169,2026-08-04,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,36000.0,365,365.0,68819,,clean
+187,SHP-0187,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,65330,,clean
+192,SHP-0192,2026-08-04,Copperbelt Fuels Ltd,Lusaka,Diesel,Kitwe,Copperbelt,36000.0,345,345.0,116031,HIGH_COST,flagged
+254,SHP-0254,2026-08-04,ZamFuel Trading Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,41861,,clean
+280,SHP-0280,2026-08-04,Copperbelt Fuels Ltd,Livingstone,Petrol,Choma,Southern,32000.0,200,200.0,27143,,clean
+296,SHP-0296,2026-08-04,Rift Petro Supplies Ltd,Kitwe,Diesel,Chingola,Copperbelt,38000.0,65,65.0,12725,,clean
+324,SHP-0324,2026-08-04,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Kitwe,Copperbelt,34000.0,65,65.0,9604,,clean
+5,SHP-0005,2026-08-05,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34523,,clean
+28,SHP-0028,2026-08-05,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,40000.0,130,130.0,25649,,clean
+144,SHP-0144,2026-08-05,Mosi Petroleum Merchants Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8038,,clean
+181,SHP-0181,2026-08-05,Copperbelt Fuels Ltd,Kitwe,Jet A-1,Chingola,Copperbelt,36000.0,65,65.0,10571,,clean
+200,SHP-0200,2026-08-05,Rift Petro Supplies Ltd,Lusaka,Petrol,Chipata,Eastern,36000.0,365,365.0,69190,,clean
+283,SHP-0283,2026-08-05,ZamFuel Trading Ltd,Lusaka,Jet A-1,Kitwe,Copperbelt,30000.0,345,345.0,84267,HIGH_COST,flagged
+379,SHP-0379,2026-08-05,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,28000.0,455,455.0,109771,HIGH_COST,flagged
+124,SHP-0124,2026-08-06,Rift Petro Supplies Ltd,Lusaka,Diesel,Solwezi,North-Western,34000.0,575,,85896,MISSING_DISTANCE,flagged
+146,SHP-0146,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,57384,,clean
+174,SHP-0174,2026-08-06,Great Lakes Energy Ltd,Kasama,Kerosene,Mpika,Muchinga,40000.0,190,190.0,31186,,clean
+222,SHP-0222,2026-08-06,Copperbelt Fuels Ltd,Lusaka,Diesel,Petauke,Eastern,28000.0,420,420.0,52125,,clean
+400,SHP-0400,2026-08-06,Great Lakes Energy Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,75309,,clean
+109,SHP-0109,2026-08-07,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34778,,clean
+164,SHP-0164,2026-08-07,Rift Petro Supplies Ltd,Lusaka,Petrol,Kabwe,Central,24000.0,130,130.0,16014,,clean
+346,SHP-0346,2026-08-07,Copperbelt Fuels Ltd,Kabwe,Petrol,Serenje,Central,34000.0,175,175.0,26650,,clean
+20,SHP-0020,2026-08-08,Mosi Petroleum Merchants Ltd,Ndola,Petrol,Solwezi,North-Western,36000.0,215,215.0,36189,,clean
+73,SHP-0073,2026-08-08,ZamFuel Trading Ltd,Livingstone,Jet A-1,Choma,Southern,38000.0,200,200.0,33183,,clean
+76,SHP-0076,2026-08-08,Copperbelt Fuels Ltd,Lusaka,Kerosene,Mongu,Western,34000.0,560,560.0,76940,,clean
+95,SHP-0095,2026-08-08,Great Lakes Energy Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,66450,,clean
+298,SHP-0298,2026-08-08,Rift Petro Supplies Ltd,Kabwe,Kerosene,Serenje,Central,30000.0,175,175.0,24120,,clean
+349,SHP-0349,2026-08-08,Great Lakes Energy Ltd,Ndola,Diesel,Mufulira,Copperbelt,40000.0,45,45.0,8010,,clean
+166,SHP-0166,2026-08-09,Great Lakes Energy Ltd,Lusaka,Diesel,Mansa,Luapula,34000.0,455,455.0,63932,,clean
+261,SHP-0261,2026-08-09,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,28000.0,485,485.0,63627,,clean
+294,SHP-0294,2026-08-09,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,34079,,clean
+317,SHP-0317,2026-08-09,Rift Petro Supplies Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,71960,,clean
+360,SHP-0360,2026-08-09,Copperbelt Fuels Ltd,Ndola,Diesel,Mufulira,Copperbelt,38000.0,45,45.0,7424,,clean
+362,SHP-0362,2026-08-09,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,86623,,clean
+121,SHP-0121,2026-08-10,Zambezi Oil Distributors Ltd,,Petrol,Chingola,Copperbelt,30000.0,60,60.0,8402,MISSING_DIMENSION,flagged
+165,SHP-0165,2026-08-10,Rift Petro Supplies Ltd,Ndola,Jet A-1,Chingola,Copperbelt,36000.0,60,60.0,9916,,clean
+35,SHP-0035,2026-08-11,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,32000.0,420,420.0,61293,,clean
+178,SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama,Diesel,Serenje,Central,40000.0,215,215.0,38667,,clean
+403,SHP-0178,2026-08-11,Rift Petro Supplies Ltd,Kasama,Diesel,Serenje,Central,40000.0,215,215.0,38667,DUPLICATE,flagged
+245,SHP-0245,2026-08-11,Rift Petro Supplies Ltd,Ndola,Petrol,Mufulira,Copperbelt,28000.0,45,45.0,6237,,clean
+335,SHP-0335,2026-08-11,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,36000.0,485,,77206,MISSING_DISTANCE,flagged
+9,SHP-0009,2026-08-12,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,38000.0,485,485.0,87839,,clean
+65,SHP-0065,2026-08-12,Rift Petro Supplies Ltd,Ndola,Petrol,Solwezi,North-Western,24000.0,215,215.0,22020,,clean
+107,SHP-0107,2026-08-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Solwezi,North-Western,34000.0,575,575.0,80621,,clean
+182,SHP-0182,2026-08-12,Rift Petro Supplies Ltd,Kitwe,Kerosene,Chingola,Copperbelt,24000.0,65,65.0,7819,,clean
+244,SHP-0244,2026-08-12,ZamFuel Trading Ltd,Ndola,Diesel,Kitwe,Copperbelt,34000.0,65,65.0,9293,,clean
+316,SHP-0316,2026-08-12,ZamFuel Trading Ltd,Lusaka,Petrol,Chipata,Eastern,32000.0,365,365.0,61092,,clean
+330,SHP-0330,2026-08-12,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Mongu,Western,-5000.0,560,560.0,77348,INVALID_VOLUME,flagged
+54,SHP-0054,2026-08-13,ZamFuel Trading Ltd,Ndola,Kerosene,Solwezi,North-Western,24000.0,215,215.0,22362,,clean
+56,SHP-0056,2026-08-13,ZamFuel Trading Ltd,Kabwe,Diesel,Mkushi,Central,,95,95.0,9359,INVALID_VOLUME,flagged
+59,SHP-0059,2026-08-13,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,36000.0,485,485.0,75580,,clean
+63,SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,10792,,clean
+406,SHP-0063,2026-08-13,Mosi Petroleum Merchants Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,10792,DUPLICATE,flagged
+127,SHP-0127,2026-08-13,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Chipata,Eastern,34000.0,365,365.0,63584,,clean
+149,SHP-0149,2026-08-13,Great Lakes Energy Ltd,Lusaka,Kerosene,Solwezi,North-Western,34000.0,575,575.0,84369,,clean
+16,SHP-0016,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,24000.0,345,345.0,37054,,clean
+286,SHP-0286,2026-08-14,Copperbelt Fuels Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,74270,,clean
+369,SHP-0369,2026-08-14,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,38000.0,365,365.0,69599,,clean
+138,SHP-0138,2026-08-15,ZamFuel Trading Ltd,Lusaka,Petrol,Petauke,Eastern,36000.0,420,420.0,73463,,clean
+140,SHP-0140,2026-08-15,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Choma,Southern,28000.0,320,320.0,37276,,clean
+242,SHP-0242,2026-08-15,Zambezi Oil Distributors Ltd,Kabwe,Diesel,Serenje,Central,30000.0,175,175.0,25869,,clean
+264,SHP-0264,2026-08-15,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,28000.0,485,485.0,65624,,clean
+339,SHP-0339,2026-08-15,Copperbelt Fuels Ltd,Lusaka,Petrol,Choma,Southern,32000.0,320,320.0,42277,,clean
+197,SHP-0197,2026-08-16,Great Lakes Energy Ltd,,Diesel,Mufulira,Copperbelt,30000.0,45,45.0,5657,MISSING_DIMENSION,flagged
+285,SHP-0285,2026-08-16,Rift Petro Supplies Ltd,Ndola,Jet A-1,Chingola,Copperbelt,30000.0,60,60.0,8971,,clean
+315,SHP-0315,2026-08-16,Great Lakes Energy Ltd,Lusaka,Jet A-1,Mansa,Luapula,30000.0,455,455.0,56598,,clean
+77,SHP-0077,2026-08-17,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,36000.0,560,560.0,85766,,clean
+314,SHP-0314,2026-08-17,Zambezi Oil Distributors Ltd,Lusaka,Jet A-1,Mansa,Luapula,40000.0,455,455.0,73441,,clean
+343,SHP-0343,2026-08-17,Zambezi Oil Distributors Ltd,Kabwe,Kerosene,Serenje,Central,32000.0,175,175.0,26707,,clean
+11,SHP-0011,2026-08-18,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,34000.0,455,455.0,67032,,clean
+32,SHP-0032,2026-08-18,Great Lakes Energy Ltd,Kasama,Diesel,Mbala,Northern,38000.0,90,90.0,13696,,clean
+89,SHP-0089,2026-08-18,Rift Petro Supplies Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,49311,,clean
+118,SHP-0118,2026-08-18,Great Lakes Energy Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,22339,,clean
+139,SHP-0139,2026-08-18,ZamFuel Trading Ltd,Kabwe,Kerosene,Serenje,Central,40000.0,175,175.0,33802,,clean
+193,SHP-0193,2026-08-18,Copperbelt Fuels Ltd,Lusaka,Kerosene,Livingstone,Southern,28000.0,485,485.0,59961,,clean
+207,SHP-0207,2026-08-18,Zambezi Oil Distributors Ltd,Lusaka,Jet A-1,Livingstone,Southern,34000.0,485,443.0,78192,DISTANCE_MISMATCH,flagged
+209,SHP-0209,2026-08-18,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,74109,,clean
+332,SHP-0332,2026-08-18,ZamFuel Trading Ltd,Lusaka,Diesel,Kitwe,Copperbelt,32000.0,345,345.0,49154,,clean
+377,SHP-0377,2026-08-18,Rift Petro Supplies Ltd,Kasama,Diesel,Mpika,Muchinga,34000.0,190,190.0,26057,,clean
+266,SHP-0266,2026-08-19,Great Lakes Energy Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,34000.0,370,370.0,61266,,clean
+366,SHP-0366,2026-08-19,ZamFuel Trading Ltd,Lusaka,Kerosene,Solwezi,North-Western,32000.0,575,575.0,82511,,clean
+394,SHP-0394,2026-08-19,ZamFuel Trading Ltd,Ndola,Jet A-1,Kasumbalesa,Copperbelt,28000.0,105,105.0,14563,,clean
+4,SHP-0004,2026-08-20,ZamFuel Trading Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,24000.0,105,105.0,11907,,clean
+375,SHP-0375,2026-08-20,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,40000.0,370,370.0,71840,,clean
+26,SHP-0026,2026-08-21,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,38000.0,370,370.0,66837,,clean
+36,SHP-0036,2026-08-21,ZamFuel Trading Ltd,Lusaka,Diesel,Ndola,Copperbelt,34000.0,370,370.0,60707,,clean
+186,SHP-0186,2026-08-21,Rift Petro Supplies Ltd,Ndola,Jet A-1,Solwezi,North-Western,36000.0,215,215.0,34010,,clean
+204,SHP-0204,2026-08-21,Great Lakes Energy Ltd,Lusaka,Petrol,Livingstone,Southern,40000.0,485,485.0,95355,,clean
+234,SHP-0234,2026-08-21,Copperbelt Fuels Ltd,Ndola,Kerosene,Mufulira,Copperbelt,24000.0,45,45.0,5086,,clean
+256,SHP-0256,2026-08-21,Copperbelt Fuels Ltd,Ndola,Diesel,Kapiri Mposhi,Central,32000.0,150,150.0,20234,,clean
+288,SHP-0288,2026-08-21,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mansa,Luapula,28000.0,455,455.0,51086,,clean
+2,SHP-0002,2026-08-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Solwezi,North-Western,32000.0,575,575.0,85354,,clean
+180,SHP-0180,2026-08-22,Copperbelt Fuels Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20077,,clean
+247,SHP-0247,2026-08-22,ZamFuel Trading Ltd,Ndola,Petrol,Mufulira,Copperbelt,36000.0,45,45.0,7299,,clean
+337,SHP-0337,2026-08-22,ZamFuel Trading Ltd,Lusaka,Diesel,Choma,Southern,34000.0,320,320.0,40716,,clean
+398,SHP-0398,2026-08-22,ZamFuel Trading Ltd,Lusaka,Diesel,Mongu,Western,38000.0,560,,89851,MISSING_DISTANCE,flagged
+64,SHP-0064,2026-08-23,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,34000.0,95,95.0,12485,,clean
+130,SHP-0130,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,36000.0,60,60.0,10381,,clean
+148,SHP-0148,2026-08-23,ZamFuel Trading Ltd,Ndola,Kerosene,Kitwe,Copperbelt,32000.0,65,65.0,8209,,clean
+161,SHP-0161,2026-08-23,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,88129,,clean
+226,SHP-0226,2026-08-23,Copperbelt Fuels Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,25209,,clean
+279,SHP-0279,2026-08-23,ZamFuel Trading Ltd,Kitwe,Diesel,Kalulushi,Copperbelt,28000.0,40,40.0,5135,,clean
+319,SHP-0319,2026-08-23,Rift Petro Supplies Ltd,Lusaka,Petrol,Mongu,Western,24000.0,560,560.0,59251,,clean
+329,SHP-0329,2026-08-23,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,34000.0,215,215.0,33910,,clean
+353,SHP-0353,2026-08-23,ZamFuel Trading Ltd,Ndola,Petrol,Chingola,Copperbelt,28000.0,60,60.0,7752,,clean
+160,SHP-0160,2026-08-24,Copperbelt Fuels Ltd,Kabwe,Diesel,Mkushi,Central,32000.0,95,95.0,11702,,clean
+214,SHP-0214,2026-08-24,Mosi Petroleum Merchants Ltd,Kabwe,Jet A-1,Serenje,Central,0.0,175,175.0,28160,INVALID_VOLUME,flagged
+276,SHP-0276,2026-08-24,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,66066,,clean
+14,SHP-0014,2026-08-25,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Kazungula,Southern,40000.0,80,80.0,15128,,clean
+45,SHP-0045,2026-08-25,ZamFuel Trading Ltd,Livingstone,Petrol,Sesheke,Western,32000.0,145,145.0,17596,,clean
+292,SHP-0292,2026-08-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,46229,,clean
+17,SHP-0017,2026-08-26,ZamFuel Trading Ltd,Ndola,Kerosene,Chingola,Copperbelt,36000.0,60,60.0,21538,HIGH_COST,flagged
+94,SHP-0094,2026-08-26,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,40000.0,455,455.0,76527,,clean
+229,SHP-0229,2026-08-26,Rift Petro Supplies Ltd,Ndola,Diesel,Solwezi,North-Western,28000.0,215,215.0,26582,,clean
+326,SHP-0326,2026-08-26,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,40000.0,215,153.0,38613,DISTANCE_MISMATCH,flagged
+108,SHP-0108,2026-08-27,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Mongu,Western,40000.0,560,589.0,93240,DISTANCE_MISMATCH,flagged
+321,SHP-0321,2026-08-27,Rift Petro Supplies Ltd,Kitwe,Diesel,Chingola,Copperbelt,34000.0,65,65.0,10647,,clean
+37,SHP-0037,2026-08-28,ZamFuel Trading Ltd,Lusaka,Diesel,Livingstone,Southern,40000.0,485,485.0,94204,,clean
+168,SHP-0168,2026-08-28,ZamFuel Trading Ltd,Livingstone,Petrol,Kazungula,Southern,28000.0,80,80.0,10870,,clean
+289,SHP-0289,2026-08-28,Great Lakes Energy Ltd,Ndola,Diesel,Kitwe,Copperbelt,28000.0,65,65.0,7329,,clean
+358,SHP-0358,2026-08-28,Mosi Petroleum Merchants Ltd,Kabwe,Petrol,Serenje,Central,40000.0,175,175.0,28510,,clean
+48,SHP-0048,2026-08-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Mongu,Western,32000.0,560,560.0,76564,,clean
+81,SHP-0081,2026-08-29,,Ndola,Diesel,Solwezi,North-Western,24000.0,215,215.0,22845,MISSING_DIMENSION,flagged
+354,SHP-0354,2026-08-29,Copperbelt Fuels Ltd,Ndola,Petrol,Chingola,Copperbelt,38000.0,60,60.0,10452,,clean
+151,SHP-0151,2026-08-30,Copperbelt Fuels Ltd,Livingstone,Diesel,Sesheke,Western,24000.0,145,145.0,13093,,clean
+184,SHP-0184,2026-08-30,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,38000.0,365,365.0,78531,,clean
+219,SHP-0219,2026-08-30,ZamFuel Trading Ltd,Kasama,Petrol,Mpika,Muchinga,34000.0,190,190.0,26537,,clean
+371,SHP-0371,2026-08-30,ZamFuel Trading Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,14317,,clean
+163,SHP-0163,2026-08-31,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,40000.0,345,345.0,57009,,clean
+216,SHP-0216,2026-08-31,Great Lakes Energy Ltd,Ndola,Petrol,Kapiri Mposhi,Central,32000.0,150,150.0,20670,,clean
+259,SHP-0259,2026-08-31,Rift Petro Supplies Ltd,Lusaka,Diesel,Choma,Southern,32000.0,320,320.0,39617,,clean
+322,SHP-0322,2026-08-31,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75015,,clean
+38,SHP-0038,2026-09-01,Rift Petro Supplies Ltd,Lusaka,Jet A-1,Petauke,Eastern,40000.0,420,420.0,78843,,clean
+68,SHP-0068,2026-09-01,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Chipata,Eastern,28000.0,365,365.0,49759,,clean
+232,SHP-0232,2026-09-01,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Solwezi,North-Western,30000.0,575,575.0,79980,,clean
+117,SHP-0117,2026-09-02,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,34000.0,95,95.0,13025,,clean
+318,SHP-0318,2026-09-02,ZamFuel Trading Ltd,Ndola,Kerosene,Kasumbalesa,Copperbelt,36000.0,105,105.0,18158,,clean
+101,SHP-0101,2026-09-03,Great Lakes Energy Ltd,Kitwe,Diesel,Chingola,Copperbelt,34000.0,65,150.0,10344,DISTANCE_MISMATCH,flagged
+307,SHP-0307,2026-09-03,Great Lakes Energy Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,69543,,clean
+374,SHP-0374,2026-09-03,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Chipata,Eastern,30000.0,365,365.0,52769,,clean
+8,SHP-0008,2026-09-04,Zambezi Oil Distributors Ltd,Kabwe,Petrol,Serenje,Central,30000.0,175,175.0,23123,,clean
+399,SHP-0399,2026-09-04,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,71540,,clean
+198,SHP-0198,2026-09-05,Rift Petro Supplies Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,30000.0,40,40.0,5156,,clean
+393,SHP-0393,2026-09-05,Copperbelt Fuels Ltd,Ndola,Kerosene,Mufulira,Copperbelt,36000.0,45,45.0,8339,,clean
+173,SHP-0173,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,34000.0,560,560.0,77223,,clean
+291,SHP-0291,2026-09-06,Copperbelt Fuels Ltd,Livingstone,Petrol,Sesheke,Western,30000.0,145,145.0,18209,,clean
+309,SHP-0309,2026-09-06,Copperbelt Fuels Ltd,Lusaka,Jet A-1,Mongu,Western,40000.0,560,560.0,94511,,clean
+3,SHP-0003,2026-09-07,Great Lakes Energy Ltd,Kitwe,Kerosene,Kalulushi,Copperbelt,40000.0,40,88.0,6874,DISTANCE_MISMATCH,flagged
+238,SHP-0238,2026-09-07,Great Lakes Energy Ltd,Kabwe,Diesel,Serenje,Central,28000.0,175,175.0,23121,,clean
+22,SHP-0022,2026-09-08,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,38000.0,455,455.0,74455,,clean
+29,SHP-0029,2026-09-08,ZamFuel Trading Ltd,Lusaka,Kerosene,Ndola,Copperbelt,36000.0,370,334.0,61955,DISTANCE_MISMATCH,flagged
+103,SHP-0103,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mongu,Western,38000.0,560,560.0,90354,,clean
+114,SHP-0114,2026-09-08,Copperbelt Fuels Ltd,Ndola,Jet A-1,Chingola,Copperbelt,28000.0,60,60.0,8105,,clean
+205,SHP-0205,2026-09-08,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Kabwe,Central,36000.0,130,130.0,21088,,clean
+206,SHP-0206,2026-09-08,Great Lakes Energy Ltd,Lusaka,Petrol,Kitwe,Copperbelt,30000.0,345,345.0,43818,,clean
+383,SHP-0383,2026-09-09,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,36000.0,95,95.0,13400,,clean
+47,SHP-0047,2026-09-10,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,38000.0,455,455.0,74273,,clean
+49,SHP-0049,2026-09-10,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,30000.0,105,30.0,15446,DISTANCE_MISMATCH,flagged
+175,SHP-0175,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Ndola,Copperbelt,24000.0,370,370.0,40238,,clean
+203,SHP-0203,2026-09-10,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Petauke,Eastern,40000.0,420,420.0,75589,,clean
+262,SHP-0262,2026-09-10,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Sesheke,Western,30000.0,145,145.0,16586,,clean
+248,SHP-0248,2026-09-11,Rift Petro Supplies Ltd,Lusaka,Diesel,Solwezi,North-Western,38000.0,575,575.0,98801,,clean
+271,SHP-0271,2026-09-11,ZamFuel Trading Ltd,Lusaka,Kerosene,Choma,Southern,32000.0,320,320.0,42037,,clean
+325,SHP-0325,2026-09-11,ZamFuel Trading Ltd,Livingstone,Diesel,Choma,Southern,32000.0,200,200.0,25880,,clean
+97,SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,67976,,clean
+402,SHP-0097,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,67976,DUPLICATE,flagged
+135,SHP-0135,2026-09-12,ZamFuel Trading Ltd,Ndola,Diesel,Mufulira,Copperbelt,38000.0,45,45.0,8587,,clean
+147,SHP-0147,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Chipata,Eastern,34000.0,365,365.0,60949,,clean
+157,SHP-0157,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Diesel,Mongu,Western,24000.0,560,560.0,58928,,clean
+167,SHP-0167,2026-09-12,Great Lakes Energy Ltd,Livingstone,Jet A-1,Sesheke,Western,28000.0,145,145.0,15859,,clean
+171,SHP-0171,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Mongu,Western,34000.0,560,560.0,88380,,clean
+302,SHP-0302,2026-09-12,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,64157,,clean
+132,SHP-0132,2026-09-13,Great Lakes Energy Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,27230,,clean
+145,SHP-0145,2026-09-13,ZamFuel Trading Ltd,Lusaka,Diesel,Petauke,Eastern,38000.0,420,420.0,70422,,clean
+284,SHP-0284,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,28000.0,345,345.0,41394,,clean
+348,SHP-0348,2026-09-13,Copperbelt Fuels Ltd,Lusaka,Kerosene,Mongu,Western,38000.0,560,560.0,96883,,clean
+116,SHP-0116,2026-09-14,ZamFuel Trading Ltd,Livingstone,Jet A-1,Choma,Southern,32000.0,200,200.0,26267,,clean
+6,SHP-0006,2026-09-15,Zambezi Oil Distributors Ltd,Kasama,Petrol,Serenje,Central,40000.0,215,172.0,37947,DISTANCE_MISMATCH,flagged
+24,SHP-0024,2026-09-15,ZamFuel Trading Ltd,Kitwe,Diesel,Chingola,Copperbelt,40000.0,65,,12266,MISSING_DISTANCE,flagged
+55,SHP-0055,2026-09-15,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,36000.0,105,105.0,16932,,clean
+210,SHP-0210,2026-09-15,Copperbelt Fuels Ltd,Ndola,Diesel,Kitwe,Copperbelt,38000.0,65,65.0,10334,,clean
+390,SHP-0390,2026-09-15,Rift Petro Supplies Ltd,Livingstone,Diesel,Choma,Southern,38000.0,200,200.0,33212,,clean
+39,SHP-0039,2026-09-16,Great Lakes Energy Ltd,Lusaka,Diesel,Kitwe,Copperbelt,28000.0,345,345.0,41306,,clean
+51,SHP-0051,2026-09-16,ZamFuel Trading Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,45476,,clean
+57,SHP-0057,2026-09-16,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Petauke,Eastern,34000.0,420,420.0,55656,,clean
+221,SHP-0221,2026-09-16,Great Lakes Energy Ltd,Lusaka,Kerosene,Mongu,Western,30000.0,560,560.0,73554,,clean
+304,SHP-0304,2026-09-16,Zambezi Oil Distributors Ltd,Ndola,Kerosene,Kitwe,Copperbelt,32000.0,65,65.0,9086,,clean
+384,SHP-0384,2026-09-16,Rift Petro Supplies Ltd,Lusaka,Petrol,Petauke,Eastern,24000.0,420,483.0,46459,DISTANCE_MISMATCH,flagged
+112,SHP-0112,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Kitwe,Copperbelt,24000.0,345,345.0,39232,,clean
+240,SHP-0240,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,65663,,clean
+255,SHP-0255,2026-09-17,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kitwe,Copperbelt,38000.0,345,345.0,53894,,clean
+272,SHP-0272,2026-09-17,Rift Petro Supplies Ltd,Lusaka,Diesel,Ndola,Copperbelt,32000.0,370,332.0,59978,DISTANCE_MISMATCH,flagged
+273,SHP-0273,2026-09-17,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Choma,Southern,28000.0,320,320.0,37825,,clean
+82,SHP-0082,2026-09-18,ZamFuel Trading Ltd,Lusaka,Diesel,Solwezi,North-Western,28000.0,575,575.0,71329,,clean
+158,SHP-0158,2026-09-18,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,32000.0,215,215.0,28147,,clean
+201,SHP-0201,2026-09-18,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,38000.0,95,95.0,15257,,clean
+252,SHP-0252,2026-09-19,Zambezi Oil Distributors Ltd,Kitwe,Petrol,Kalulushi,Copperbelt,28000.0,40,40.0,4996,,clean
+278,SHP-0278,2026-09-19,Copperbelt Fuels Ltd,Ndola,Diesel,Kitwe,Copperbelt,38000.0,65,65.0,11043,,clean
+310,SHP-0310,2026-09-19,Copperbelt Fuels Ltd,Lusaka,Petrol,Livingstone,Southern,28000.0,485,485.0,61676,,clean
+356,SHP-0356,2026-09-19,ZamFuel Trading Ltd,Ndola,Petrol,Kitwe,Copperbelt,38000.0,65,65.0,10555,,clean
+397,SHP-0397,2026-09-19,ZamFuel Trading Ltd,Livingstone,Petrol,Sesheke,Western,28000.0,145,145.0,16422,,clean
+52,SHP-0052,2026-09-20,Zambezi Oil Distributors Ltd,Lusaka,Petrol,Kabwe,Central,32000.0,130,130.0,21434,,clean
+98,SHP-0098,2026-09-20,Rift Petro Supplies Ltd,Lusaka,Petrol,Choma,Southern,36000.0,320,320.0,50623,,clean
+251,SHP-0251,2026-09-20,Copperbelt Fuels Ltd,Ndola,Diesel,Solwezi,North-Western,38000.0,215,125.0,36164,DISTANCE_MISMATCH,flagged
+301,SHP-0301,2026-09-20,ZamFuel Trading Ltd,Kabwe,Petrol,Mkushi,Central,30000.0,95,57.0,10805,DISTANCE_MISMATCH,flagged
+357,SHP-0357,2026-09-20,Copperbelt Fuels Ltd,Kabwe,Petrol,Mkushi,Central,38000.0,95,95.0,13568,,clean
+46,SHP-0046,2026-09-21,Great Lakes Energy Ltd,Kabwe,Kerosene,Serenje,Central,32000.0,175,175.0,24535,,clean
+71,SHP-0071,2026-09-21,,Lusaka,Diesel,Kitwe,Copperbelt,30000.0,345,345.0,44686,MISSING_DIMENSION,flagged
+293,SHP-0293,2026-09-22,ZamFuel Trading Ltd,Kasama,Petrol,Mpika,Muchinga,36000.0,190,190.0,29962,,clean
+378,SHP-0378,2026-09-22,ZamFuel Trading Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,75515,,clean
+385,SHP-0385,2026-09-22,Mosi Petroleum Merchants Ltd,Lusaka,Petrol,Mansa,Luapula,36000.0,455,455.0,69030,,clean
+131,SHP-0131,2026-09-23,Great Lakes Energy Ltd,Lusaka,Petrol,Ndola,Copperbelt,28000.0,370,370.0,87015,HIGH_COST,flagged
+224,SHP-0224,2026-09-23,Copperbelt Fuels Ltd,Kasama,Diesel,Mbala,Northern,28000.0,90,90.0,11608,,clean
+225,SHP-0225,2026-09-23,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Mongu,Western,30000.0,560,560.0,64826,,clean
+233,SHP-0233,2026-09-23,ZamFuel Trading Ltd,Kasama,Diesel,Mbala,Northern,34000.0,90,90.0,13775,,clean
+396,SHP-0396,2026-09-23,Copperbelt Fuels Ltd,Lusaka,Petrol,Petauke,Eastern,28000.0,420,420.0,50666,,clean
+13,SHP-0013,2026-09-24,ZamFuel Trading Ltd,Ndola,Jet A-1,Solwezi,North-Western,28000.0,215,215.0,28437,,clean
+93,SHP-0093,2026-09-24,Rift Petro Supplies Ltd,Lusaka,Petrol,Solwezi,North-Western,30000.0,575,575.0,73643,,clean
+100,SHP-0100,2026-09-24,Rift Petro Supplies Ltd,Kasama,Diesel,Mbala,Northern,28000.0,90,90.0,11431,,clean
+133,SHP-0133,2026-09-24,Copperbelt Fuels Ltd,Ndola,Diesel,Chingola,Copperbelt,28000.0,60,60.0,8267,,clean
+170,SHP-0170,2026-09-24,Rift Petro Supplies Ltd,Kasama,Petrol,Mbala,Northern,36000.0,90,90.0,14688,,clean
+172,SHP-0172,2026-09-24,Zambezi Oil Distributors Ltd,Ndola,Petrol,Kitwe,Copperbelt,24000.0,65,65.0,7387,,clean
+212,SHP-0212,2026-09-24,Rift Petro Supplies Ltd,Ndola,Diesel,Chingola,Copperbelt,34000.0,60,60.0,9670,,clean
+275,SHP-0275,2026-09-24,Rift Petro Supplies Ltd,Ndola,Kerosene,Kasumbalesa,Copperbelt,34000.0,105,105.0,17827,,clean
+333,SHP-0333,2026-09-24,ZamFuel Trading Ltd,Ndola,Petrol,Kasumbalesa,Copperbelt,38000.0,105,105.0,18986,,clean
+58,SHP-0058,2026-09-25,Copperbelt Fuels Ltd,Ndola,Kerosene,Chingola,Copperbelt,38000.0,60,60.0,11242,,clean
+220,SHP-0220,2026-09-25,ZamFuel Trading Ltd,Lusaka,Diesel,Mansa,Luapula,36000.0,455,455.0,63145,,clean
+231,SHP-0231,2026-09-25,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Livingstone,Southern,36000.0,485,485.0,84386,,clean
+249,SHP-0249,2026-09-25,Great Lakes Energy Ltd,Lusaka,Kerosene,Mansa,Luapula,28000.0,455,455.0,55903,,clean
+295,SHP-0295,2026-09-25,Zambezi Oil Distributors Ltd,Livingstone,Diesel,Choma,Southern,40000.0,200,200.0,34884,,clean
+313,SHP-0313,2026-09-25,Zambezi Oil Distributors Ltd,Lusaka,Diesel,Kitwe,Copperbelt,24000.0,345,345.0,34279,,clean
+382,SHP-0382,2026-09-25,Mosi Petroleum Merchants Ltd,Kasama,Petrol,Mpika,Muchinga,28000.0,190,190.0,37865,HIGH_COST,flagged
+391,SHP-0391,2026-09-25,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,24000.0,215,215.0,20454,,clean
+128,SHP-0128,2026-09-26,Mosi Petroleum Merchants Ltd,Lusaka,Kerosene,Livingstone,Southern,30000.0,485,485.0,67676,,clean
+143,SHP-0143,2026-09-26,Zambezi Oil Distributors Ltd,Kasama,Petrol,Mpika,Muchinga,38000.0,190,190.0,29631,,clean
+344,SHP-0344,2026-09-26,ZamFuel Trading Ltd,Ndola,Kerosene,Mufulira,Copperbelt,34000.0,45,45.0,7568,,clean
+113,SHP-0113,2026-09-27,ZamFuel Trading Ltd,Lusaka,Kerosene,Chipata,Eastern,32000.0,365,365.0,52947,,clean
+268,SHP-0268,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Ndola,Copperbelt,36000.0,370,370.0,66284,,clean
+270,SHP-0270,2026-09-27,Copperbelt Fuels Ltd,Lusaka,Diesel,Kabwe,Central,24000.0,130,130.0,14799,,clean
+277,SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Chipata,Eastern,24000.0,365,365.0,46561,,clean
+408,SHP-0277,2026-09-27,Mosi Petroleum Merchants Ltd,Lusaka,Diesel,Chipata,Eastern,24000.0,365,365.0,46561,DUPLICATE,flagged
+331,SHP-0331,2026-09-27,Copperbelt Fuels Ltd,Ndola,Jet A-1,Kapiri Mposhi,Central,30000.0,150,150.0,18375,,clean
+370,SHP-0370,2026-09-27,Rift Petro Supplies Ltd,Kitwe,Petrol,Chingola,Copperbelt,34000.0,65,65.0,10085,,clean
+142,SHP-0142,2026-09-28,Rift Petro Supplies Ltd,Lusaka,Kerosene,Petauke,Eastern,40000.0,420,420.0,72496,,clean
+179,SHP-0179,2026-09-28,Zambezi Oil Distributors Ltd,Kitwe,Diesel,Chingola,Copperbelt,30000.0,65,65.0,8886,,clean
+189,SHP-0189,2026-09-28,ZamFuel Trading Ltd,Ndola,Petrol,Kapiri Mposhi,Central,40000.0,150,150.0,26693,,clean
+199,SHP-0199,2026-09-28,Mosi Petroleum Merchants Ltd,Lusaka,Jet A-1,Ndola,Copperbelt,32000.0,370,370.0,58964,,clean
+211,SHP-0211,2026-09-28,Rift Petro Supplies Ltd,Ndola,Diesel,Kasumbalesa,Copperbelt,30000.0,105,105.0,14981,,clean
+350,SHP-0350,2026-09-28,Zambezi Oil Distributors Ltd,Lusaka,Kerosene,Choma,Southern,24000.0,320,320.0,34346,,clean
+136,SHP-0136,2026-09-29,ZamFuel Trading Ltd,Lusaka,Petrol,Kabwe,Central,28000.0,130,160.0,16635,DISTANCE_MISMATCH,flagged
+155,SHP-0155,2026-09-29,ZamFuel Trading Ltd,Lusaka,Jet A-1,Livingstone,Southern,30000.0,485,485.0,66738,,clean
+227,SHP-0227,2026-09-29,Great Lakes Energy Ltd,Lusaka,Jet A-1,Kabwe,Central,24000.0,130,,15539,MISSING_DISTANCE,flagged
+253,SHP-0253,2026-09-29,Great Lakes Energy Ltd,Lusaka,Petrol,Petauke,Eastern,38000.0,420,420.0,75972,,clean
+290,SHP-0290,2026-09-29,Rift Petro Supplies Ltd,Lusaka,Diesel,Livingstone,Southern,32000.0,485,485.0,65961,,clean
+120,SHP-0120,2026-09-30,Zambezi Oil Distributors Ltd,Ndola,Diesel,Mufulira,Copperbelt,32000.0,45,45.0,7525,,clean
+217,SHP-0217,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Livingstone,Southern,34000.0,485,485.0,75961,,clean
+355,SHP-0355,2026-09-30,Great Lakes Energy Ltd,Lusaka,Diesel,Petauke,Eastern,24000.0,420,420.0,41832,,clean
+368,SHP-0368,2026-09-30,ZamFuel Trading Ltd,Ndola,Diesel,Solwezi,North-Western,30000.0,215,215.0,27317,,clean

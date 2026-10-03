@@ -5,6 +5,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 RAW_PATH = ROOT / "data" / "raw_data.csv"
 CLEAN_PATH = ROOT / "data" / "cleaned_data.csv"
+PROCESSED_PATH = ROOT / "data" / "processed_data.csv"
 ISSUES_PATH = ROOT / "data" / "issues_flagged.csv"
 REPORT_PATH = ROOT / "reports" / "data_quality_report.md"
 
@@ -104,16 +105,22 @@ def compute_cost_threshold(df, duplicate_mask):
     return q3 + IQR_MULTIPLIER * (q3 - q1)
 
 
+def comparison_columns(df):
+    return [col for col in df.columns if col != "record_id"]
+
+
 def build_flags(df, duplicate_mask, threshold):
-    first_id = (
-        df.groupby(list(df.columns), dropna=False)["shipment_id"].transform("first")
-    )
+    grouped = df.groupby(comparison_columns(df), dropna=False)
+    first_id = grouped["shipment_id"].transform("first")
+    first_record = grouped["record_id"].transform("first")
     flags = []
     for i, row in df.iterrows():
         recorded = []
 
         if duplicate_mask.loc[i]:
-            recorded.append(("DUPLICATE", f"Identical to {first_id.loc[i]}"))
+            recorded.append(
+                ("DUPLICATE", f"Identical to {first_id.loc[i]} (record {first_record.loc[i]})")
+            )
 
         missing_dims = [col for col in ["company", "depot", "destination"] if not row[col]]
         if missing_dims:
@@ -176,18 +183,21 @@ def build_flags(df, duplicate_mask, threshold):
 
 def build_issues_frame(df, flags):
     issues = df.loc[flags["row_index"]].copy()
-    issues.insert(1, "route", issues["depot"] + " -> " + issues["destination"])
+    issues.insert(2, "route", issues["depot"] + " -> " + issues["destination"])
+    issues["issue_code"] = flags["issue"].to_numpy()
     issues["issue"] = flags["issue"].map(ISSUE_LABELS).to_numpy()
     issues["severity"] = flags["severity"].to_numpy()
     issues["detail"] = flags["detail"].to_numpy()
     issues["shipment_date"] = issues["shipment_date"].dt.strftime("%Y-%m-%d")
     issues = issues[
         [
+            "record_id",
             "shipment_id",
             "shipment_date",
             "company",
             "route",
             "product",
+            "issue_code",
             "issue",
             "severity",
             "detail",
@@ -197,7 +207,21 @@ def build_issues_frame(df, flags):
             "transport_cost",
         ]
     ]
-    return issues.sort_values(["issue", "shipment_id"])
+    return issues.sort_values(["issue_code", "shipment_id"])
+
+
+def build_processed_frame(df, flags):
+    codes = {}
+    if len(flags):
+        for row_index, code in zip(flags["row_index"], flags["issue"]):
+            codes.setdefault(row_index, []).append(code)
+
+    processed = df.copy()
+    joined = [";".join(sorted(codes.get(i, []))) for i in processed.index]
+    processed["issues"] = joined
+    processed["quality_status"] = ["clean" if not value else "flagged" for value in joined]
+    processed["shipment_date"] = processed["shipment_date"].dt.strftime("%Y-%m-%d")
+    return processed.sort_values(["shipment_date", "shipment_id"])
 
 
 def write_report(total, counts, n_flagged, resolved, threshold, n_clean):
@@ -255,7 +279,7 @@ def main():
     df, numeric_fixes = coerce_numerics(df)
     df = parse_dates(df)
 
-    duplicate_mask = df.duplicated(subset=list(df.columns), keep="first")
+    duplicate_mask = df.duplicated(subset=comparison_columns(df), keep="first")
     threshold = compute_cost_threshold(df, duplicate_mask)
     flags = build_flags(df, duplicate_mask, threshold)
 
@@ -264,11 +288,13 @@ def main():
     clean = df[~df.index.isin(flagged_rows)].copy()
 
     issues = build_issues_frame(df, flags) if len(flags) else pd.DataFrame()
+    processed = build_processed_frame(df, flags)
 
     clean = clean.sort_values(["shipment_date", "shipment_id"])
     clean_export = clean.copy()
     clean_export["shipment_date"] = clean_export["shipment_date"].dt.strftime("%Y-%m-%d")
     clean_export.to_csv(CLEAN_PATH, index=False)
+    processed.to_csv(PROCESSED_PATH, index=False)
     issues.to_csv(ISSUES_PATH, index=False)
 
     resolved = [
@@ -286,7 +312,7 @@ def main():
             print(f"{ISSUE_LABELS[code]:<22}: {counts[code]}")
     print(f"clean records         : {len(clean)}")
     print(f"high-cost threshold   : {threshold:.5f} ZMW/litre-km")
-    print(f"wrote {CLEAN_PATH.name}, {ISSUES_PATH.name}, {REPORT_PATH.name}")
+    print(f"wrote {CLEAN_PATH.name}, {PROCESSED_PATH.name}, {ISSUES_PATH.name}, {REPORT_PATH.name}")
 
 
 if __name__ == "__main__":

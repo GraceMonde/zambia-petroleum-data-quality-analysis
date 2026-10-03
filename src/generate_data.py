@@ -27,7 +27,7 @@ DEPOT_WEIGHT_BY_NAME = {
     "Kitwe": 2.0,
     "Kabwe": 1.5,
     "Livingstone": 1.0,
-    "Kasama": 0.8,
+    "Kasama": 1.5,
 }
 
 ROUTES = [
@@ -197,7 +197,10 @@ def inject_issues(rng, rows):
 def main():
     rng = np.random.default_rng(SEED)
     rows = inject_issues(rng, generate_rows(rng))
-    df = pd.DataFrame(rows)
+    for sequence, row in enumerate(rows, start=1):
+        row["record_id"] = sequence
+    ordered = ["record_id"] + [key for key in rows[0] if key != "record_id"]
+    df = pd.DataFrame(rows)[ordered]
     RAW_PATH.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(RAW_PATH, index=False)
     print(f"Wrote {len(df)} records to {RAW_PATH}")
