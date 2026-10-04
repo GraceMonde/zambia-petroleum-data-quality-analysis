@@ -107,8 +107,8 @@ def issue_counts(issues):
 def build_kpis(clean, issues):
     return [
         ("Shipments analysed", len(clean), "#,##0"),
-        ("Volume moved (litres)", int(clean["volume_litres"].sum()), "#,##0"),
-        ("Avg transport cost (ZMW)", int(clean["transport_cost"].mean()), "#,##0"),
+        ("Volume moved (litres)", round(clean["volume_litres"].sum()), "#,##0"),
+        ("Avg transport cost (ZMW)", round(clean["transport_cost"].mean()), "#,##0"),
         ("Data quality issues", len(issues), "#,##0"),
     ]
 
