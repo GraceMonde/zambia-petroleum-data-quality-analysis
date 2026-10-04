@@ -11,6 +11,9 @@ analysis and dashboard development using a synthetic petroleum transportation da
 > by `src/generate_data.py`. Nothing here represents ERB data, an actual UPP calculation, or real
 > company performance.
 
+Full write-up - why this project was chosen, how it was built, what it found and why the findings
+matter: [`docs/project_report.md`](docs/project_report.md).
+
 ---
 
 ## Results at a glance
@@ -92,10 +95,13 @@ python src/load_database.py
 python src/run_queries.py
 python src/analysis.py
 python dashboard/build_dashboard.py
+
+python tests/verify_project.py   # 87 assertions against the rebuilt outputs
 ```
 
 Requires **Python 3.11+**. The dataset is seeded (`SEED = 42`), so every run reproduces the same
-408 records and the same 55 issues.
+408 records and the same 55 issues. `tests/verify_project.py` exits non-zero if any assumption has
+drifted.
 
 ---
 
@@ -128,8 +134,11 @@ reports/
   data_quality_report.md   validation counts, rules and thresholds
   analytical_summary.md    one-page analytical write-up
 docs/
+  project_report.md         full project report: why, how, results, why they matter
   guide.txt                project brief
   screenshots/             dashboard captures (see below)
+tests/
+  verify_project.py        87 automated checks over every output
 ```
 
 ---
