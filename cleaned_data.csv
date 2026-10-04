@@ -1,0 +1,10 @@
+records read          : 408
+Duplicate record      : 8
+Missing company/depot : 6
+Missing distance      : 11
+Invalid volume        : 4
+Distance discrepancy  : 17
+High-cost anomaly     : 9
+clean records         : 353
+high-cost threshold   : 0.00639 ZMW/litre-km
+wrote cleaned_data.csv, processed_data.csv, issues_flagged.csv, data_quality_report.md
